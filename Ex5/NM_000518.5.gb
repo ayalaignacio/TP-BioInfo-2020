@@ -1,0 +1,510 @@
+LOCUS       NM_000518                628 bp    mRNA    linear   PRI 03-SEP-2019
+DEFINITION  Homo sapiens hemoglobin subunit beta (HBB), mRNA.
+ACCESSION   NM_000518
+VERSION     NM_000518.5
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 628)
+  AUTHORS   Ma Q, An L, Tian H, Liu J, Zhang L, Li X, Wei C, Xie C, Ding H, Qin
+            W and Su Y.
+  TITLE     Interactions between human hemoglobin subunits and peroxiredoxin 2
+  JOURNAL   Front Biosci (Landmark Ed) 24, 1085-1096 (2019)
+   PUBMED   30844732
+  REMARK    GeneRIF: Prx2 interacts with hemoglobin A (Alpha2Beta2) and
+            hemoglobin F (Alpha2Gamma2) but not with hemoglobin A2
+            (Alpha2Delta2)
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 628)
+  AUTHORS   Okumura JV, Silva DGH, Torres LS, Belini-Junior E, Venancio LPR,
+            Carrocini GCS, Nascimento PP, Lobo CLC and Bonini-Domingos CR.
+  TITLE     Atypical beta-S haplotypes: classification and genetic modulation
+            in patients with sickle cell anemia
+  JOURNAL   J. Hum. Genet. 64 (3), 239-248 (2019)
+   PUBMED   30622282
+  REMARK    GeneRIF: Atypical beta-globin gene is associated with sickle cell
+            anemia.
+REFERENCE   3  (bases 1 to 628)
+  AUTHORS   Chaweephisal P, Phusua A, Fanhchaksai K, Sirichotiyakul S and
+            Charoenkwan P.
+  TITLE     Borderline hemoglobin A2 levels in northern Thai population: HBB
+            genotypes and effects of coinherited alpha-thalassemia
+  JOURNAL   Blood Cells Mol. Dis. 74, 13-17 (2019)
+   PUBMED   30309760
+  REMARK    GeneRIF: HBB mutations in northern Thais with borderline Hb A2
+            levels comprise an unstable variant Hb Dhonburi and CAP+1 (A>C)
+            mutation
+REFERENCE   4  (bases 1 to 628)
+  AUTHORS   Aharoni R and Tobi D.
+  TITLE     Dynamical comparison between myoglobin and hemoglobin
+  JOURNAL   Proteins 86 (11), 1176-1183 (2018)
+   PUBMED   30183107
+  REMARK    GeneRIF: Despite the structural similarity of myoglobin to alpha
+            and beta subunits of hemoglobin, there is a functional difference
+            between the two proteins, owing to the quaternary structure of
+            hemoglobin. The effect of the quaternary structure of hemoglobin on
+            the intrinsic dynamics of its subunits is explored by dynamical
+            comparison of the two proteins.
+REFERENCE   5  (bases 1 to 628)
+  AUTHORS   Calvo SE, Pagliarini DJ and Mootha VK.
+  TITLE     Upstream open reading frames cause widespread reduction of protein
+            expression and are polymorphic among humans
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 106 (18), 7507-7512 (2009)
+   PUBMED   19372376
+  REMARK    GeneRIF: Includes the study of a disease-related upstream ORF in
+            this gene, and shows that it functions to reduce protein levels by
+            ~70%.
+REFERENCE   6  (bases 1 to 628)
+  AUTHORS   Origa,R.
+  TITLE     Beta-Thalassemia
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301599
+REFERENCE   7  (bases 1 to 628)
+  AUTHORS   Bender,M.A.
+  TITLE     Sickle Cell Disease
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301551
+REFERENCE   8  (bases 1 to 628)
+  AUTHORS   Adams,J.G., Steinberg,M.H., Boxer,L.A., Baehner,R.L., Forget,B.G.
+            and Tsistrakis,G.A.
+  TITLE     The structure of hemoglobin Indianapolis [beta112(G14) arginine].
+            An unstable variant detectable only by isotopic labeling
+  JOURNAL   J. Biol. Chem. 254 (9), 3479-3482 (1979)
+   PUBMED   429365
+REFERENCE   9  (bases 1 to 628)
+  AUTHORS   Marotta,C.A., Wilson,J.T., Forget,B.G. and Weissman,S.M.
+  TITLE     Human beta-globin messenger RNA. III. Nucleotide sequences derived
+            from complementary DNA
+  JOURNAL   J. Biol. Chem. 252 (14), 5040-5053 (1977)
+   PUBMED   68958
+REFERENCE   10 (bases 1 to 628)
+  AUTHORS   Proudfoot,N.J.
+  TITLE     Complete 3' noncoding region sequences of rabbit and human
+            beta-globin messenger RNAs
+  JOURNAL   Cell 10 (4), 559-570 (1977)
+   PUBMED   67897
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AK311825.1 and BU661647.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Jun 13, 2018 this sequence version replaced NM_000518.4.
+            
+            Summary: The alpha (HBA) and beta (HBB) loci determine the
+            structure of the 2 types of polypeptide chains in adult hemoglobin,
+            Hb A. The normal adult hemoglobin tetramer consists of two alpha
+            chains and two beta chains. Mutant beta globin causes sickle cell
+            anemia. Absence of beta chain causes beta-zero-thalassemia. Reduced
+            amounts of detectable beta globin causes beta-plus-thalassemia. The
+            order of the genes in the beta-globin cluster is 5'-epsilon --
+            gamma-G -- gamma-A -- delta -- beta--3'. [provided by RefSeq, Jul
+            2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AU139015.1, SRR5189652.246572.1
+                                           [ECO:0000332]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000335295.4/ ENSP00000333994.3
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-494               AK311825.1         1-494
+            495-628             BU661647.1         507-640
+FEATURES             Location/Qualifiers
+     source          1..628
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11p15.4"
+     gene            1..628
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="hemoglobin subunit beta"
+                     /db_xref="GeneID:3043"
+                     /db_xref="HGNC:HGNC:4827"
+                     /db_xref="MIM:141900"
+     exon            1..142
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    30..32
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="upstream in-frame stop codon"
+     CDS             51..494
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="beta globin chain; hemoglobin, beta; hemoglobin
+                     beta subunit"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta"
+                     /protein_id="NP_000509.1"
+                     /db_xref="CCDS:CCDS7753.1"
+                     /db_xref="GeneID:3043"
+                     /db_xref="HGNC:HGNC:4827"
+                     /db_xref="MIM:141900"
+                     /translation="MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFE
+                     SFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPE
+                     NFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH"
+     misc_feature    54..56
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-acetylvaline. {ECO:0000250|UniProtKB:P02086};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     acetylation site"
+     misc_feature    54..56
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (Glc) (glycation) valine, in Hb A1c.
+                     {ECO:0000269|PubMed:635569}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); glycosylation site"
+     misc_feature    54..56
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-pyruvate 2-iminyl-valine, in Hb A1b; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); modified site"
+     misc_feature    72..77
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    75..77
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     {ECO:0000269|PubMed:7358733}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); glycosylation site"
+     misc_feature    78..80
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     phosphorylation site"
+     misc_feature    87..89
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     phosphorylation site"
+     misc_feature    102..104
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     {ECO:0000269|PubMed:7358733}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); glycosylation site"
+     misc_feature    126..131
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    138..143
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     mat_peptide     147..176
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /product="LVV-hemorphin-7"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P68871.2)"
+     mat_peptide     147..167
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /product="Spinorphin"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P68871.2)"
+     misc_feature    156..161
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    162..167
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    183..185
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     phosphorylation site"
+     misc_feature    186..191
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    201..203
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     phosphorylation site"
+     misc_feature    207..212
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    219..224
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    228..230
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000269|PubMed:4531009};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     acetylation site"
+     misc_feature    228..230
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Not glycated. {ECO:0000269|PubMed:7358733};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2); other
+                     site"
+     misc_feature    249..251
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     {ECO:0000269|PubMed:7358733}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); glycosylation site"
+     misc_feature    264..269
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    273..278
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    297..299
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000269|PubMed:4531009};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     acetylation site"
+     misc_feature    297..299
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Not glycated. {ECO:0000269|PubMed:7358733};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2); other
+                     site"
+     misc_feature    303..308
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    312..314
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     phosphorylation site"
+     misc_feature    327..332
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    330..332
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="S-nitrosocysteine. {ECO:0000269|PubMed:8637569,
+                     ECO:0000269|PubMed:9843411}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); nitrosylation site"
+     misc_feature    336..338
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Not glycated. {ECO:0000269|PubMed:7358733};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2); other
+                     site"
+     misc_feature    363..368
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    381..386
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    408..413
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    411..413
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     {ECO:0000269|PubMed:7358733}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); glycosylation site"
+     misc_feature    417..422
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    435..440
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    471..476
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    483..488
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    483..485
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (Glc) (glycation) lysine, alternate.
+                     {ECO:0000269|PubMed:7358733}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); glycosylation site"
+     misc_feature    483..485
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine, alternate.
+                     {ECO:0000269|PubMed:4531009}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); acetylation site"
+     exon            143..365
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /inference="alignment:Splign:2.1.0"
+     exon            366..628
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 acatttgctt ctgacacaac tgtgttcact agcaacctca aacagacacc atggtgcatc
+       61 tgactcctga ggagaagtct gccgttactg ccctgtgggg caaggtgaac gtggatgaag
+      121 ttggtggtga ggccctgggc aggctgctgg tggtctaccc ttggacccag aggttctttg
+      181 agtcctttgg ggatctgtcc actcctgatg ctgttatggg caaccctaag gtgaaggctc
+      241 atggcaagaa agtgctcggt gcctttagtg atggcctggc tcacctggac aacctcaagg
+      301 gcacctttgc cacactgagt gagctgcact gtgacaagct gcacgtggat cctgagaact
+      361 tcaggctcct gggcaacgtg ctggtctgtg tgctggccca tcactttggc aaagaattca
+      421 ccccaccagt gcaggctgcc tatcagaaag tggtggctgg tgtggctaat gccctggccc
+      481 acaagtatca ctaagctcgc tttcttgctg tccaatttct attaaaggtt cctttgttcc
+      541 ctaagtccaa ctactaaact gggggatatt atgaagggcc ttgagcatct ggattctgcc
+      601 taataaaaaa catttatttt cattgcaa
+//
+
