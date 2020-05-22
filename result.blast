@@ -1,4 +1,4 @@
-BLASTP 2.10.0+
+BLASTP 2.10.1+
 Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
 A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
 David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
@@ -6,1141 +6,1486 @@ generation of protein database search programs", Nucleic
 Acids Res. 25:3389-3402.
 
 
-RID: SFYFM1TP014
+RID: CGDBVDE7016
 
 
 Database: NCBI Protein Reference Sequences
-           147,564,492 sequences; 56,034,880,157 total letters
-Query= NM_000518 Homo sapiens hemoglobin subunit beta (HBB), mRNA.
+           168,690,030 sequences; 64,140,333,617 total letters
+Query= NM_001123377 Homo sapiens Parkinsonism associated deglycase (PARK7),
+transcript variant 2, mRNA.
 
-Length=147
+Length=189
 
 
                                                                    Score     E      Max
 Sequences producing significant alignments:                       (Bits)  Value   Ident
 
-WP_108961784.1 MULTISPECIES: hypothetical protein [Enterobacte...  305     5e-105  100%        
-XP_018891709.1 PREDICTED: hemoglobin subunit beta [Gorilla gor...  303     2e-104  99%         
-XP_002822173.1 hemoglobin subunit beta [Pongo abelii]              299     7e-103  99%         
-XP_017717110.1 PREDICTED: hemoglobin subunit beta [Rhinopithec...  295     3e-101  97%         
-XP_011818991.1 PREDICTED: hemoglobin subunit beta [Colobus ang...  294     7e-101  96%         
-NP_001316847.1 hemoglobin subunit beta [Chlorocebus sabaeus]       294     1e-100  96%         
-XP_010361646.1 PREDICTED: hemoglobin subunit beta [Rhinopithec...  292     4e-100  96%         
-NP_001270296.1 hemoglobin subunit beta [Macaca fascicularis]       291     8e-100  95%         
-XP_002754937.1 PREDICTED: hemoglobin subunit beta [Callithrix ...  291     1e-99   97%         
-NP_001157900.1 hemoglobin subunit beta [Macaca mulatta]            290     2e-99   95%         
-XP_012312232.1 hemoglobin subunit beta [Aotus nancymaae]           290     5e-99   95%         
-XP_023065381.1 hemoglobin subunit beta [Piliocolobus tephrosce...  289     7e-99   95%         
-NP_001162318.1 hemoglobin subunit beta [Papio anubis]              289     1e-98   95%         
-XP_017362775.1 PREDICTED: hemoglobin subunit beta [Cebus capuc...  287     4e-98   95%         
-XP_025213811.1 hemoglobin subunit beta isoform X2 [Theropithec...  287     4e-98   94%         
-XP_003923418.1 PREDICTED: hemoglobin subunit beta [Saimiri bol...  287     6e-98   94%         
-XP_011818992.1 PREDICTED: hemoglobin subunit delta isoform X1 ...  286     2e-97   94%         
-XP_001162045.2 hemoglobin subunit delta [Pan troglodytes]          285     2e-97   94%         
-NP_000510.1 hemoglobin subunit delta [Homo sapiens]                284     7e-97   93%         
-XP_018891710.1 PREDICTED: hemoglobin subunit delta [Gorilla go...  284     9e-97   93%         
-XP_010361647.1 PREDICTED: hemoglobin subunit delta [Rhinopithe...  284     9e-97   93%         
-XP_004407617.1 PREDICTED: hemoglobin subunit beta isoform X2 [...  282     5e-96   92%         
-XP_022377479.1 hemoglobin subunit beta isoform X2 [Enhydra lut...  281     1e-95   92%         
-XP_027435287.1 hemoglobin subunit beta isoform X1 [Zalophus ca...  280     2e-95   91%         
-XP_025844209.1 hemoglobin subunit beta [Vulpes vulpes]             279     9e-95   91%         
-XP_004407616.1 PREDICTED: hemoglobin subunit beta-like [Odoben...  278     2e-94   90%         
-XP_004779082.1 PREDICTED: hemoglobin subunit beta [Mustela put...  277     4e-94   90%         
-XP_008018084.1 PREDICTED: hemoglobin subunit delta [Chlorocebu...  277     5e-94   91%         
-XP_008050892.1 hemoglobin subunit beta [Carlito syrichta]          275     2e-93   90%         
-NP_001291814.1 hemoglobin subunit delta [Ailuropoda melanoleuca]   275     3e-93   90%         
-NP_001257812.1 hemoglobin subunit beta-like [Canis lupus famil...  275     3e-93   90%         
-XP_012312233.1 hemoglobin subunit delta [Aotus nancymaae]          275     4e-93   91%         
-XP_008707833.1 PREDICTED: hemoglobin subunit beta [Ursus marit...  275     4e-93   90%         
-XP_003781034.1 hemoglobin subunit delta [Otolemur garnettii]       275     4e-93   90%         
-NP_001291812.1 hemoglobin subunit beta-like [Ailuropoda melano...  274     6e-93   90%         
-XP_004407615.1 PREDICTED: hemoglobin subunit beta [Odobenus ro...  273     2e-92   88%         
-XP_025749989.1 hemoglobin subunit beta [Callorhinus ursinus]       273     2e-92   88%         
-NP_001075729.2 hemoglobin subunit beta-1/2 isoform 1 [Oryctola...  272     4e-92   90%         
-XP_007172930.1 hemoglobin subunit beta [Balaenoptera acutorost...  272     5e-92   90%         
-XP_011830554.1 PREDICTED: LOW QUALITY PROTEIN: hemoglobin subu...  271     7e-92   90%         
-XP_003923419.1 PREDICTED: hemoglobin subunit delta [Saimiri bo...  271     7e-92   90%         
-NP_001300972.1 hemoglobin subunit beta-1/2 isoform 1x [Oryctol...  272     8e-92   90%         
-XP_025213813.1 LOW QUALITY PROTEIN: hemoglobin subunit delta-l...  271     1e-91   90%         
-XP_006915760.1 hemoglobin subunit beta [Pteropus alecto]           271     1e-91   89%         
-XP_008050891.1 hemoglobin subunit delta [Carlito syrichta]         271     1e-91   88%         
-XP_023380644.1 hemoglobin subunit beta [Pteropus vampyrus]         270     2e-91   89%         
-XP_011900540.1 PREDICTED: LOW QUALITY PROTEIN: hemoglobin subu...  270     3e-91   90%         
-XP_017362776.1 PREDICTED: hemoglobin subunit delta [Cebus capu...  270     3e-91   90%         
-XP_002754938.1 PREDICTED: hemoglobin subunit delta isoform X1 ...  270     3e-91   89%         
-XP_005578971.1 PREDICTED: LOW QUALITY PROTEIN: hemoglobin subu...  270     4e-91   89%         
-XP_027971809.1 hemoglobin subunit beta-like [Eumetopias jubatus]   269     6e-91   87%         
-XP_006915761.2 hemoglobin subunit beta-like [Pteropus alecto]      268     1e-90   88%         
-XP_025844236.1 hemoglobin subunit beta-like [Vulpes vulpes]        268     2e-90   88%         
-XP_021540965.1 LOW QUALITY PROTEIN: hemoglobin subunit beta-li...  268     2e-90   87%         
-XP_027435289.1 hemoglobin subunit beta-like [Zalophus californ...  267     5e-90   86%         
-XP_024430430.1 hemoglobin subunit beta [Desmodus rotundus]         265     4e-89   87%         
-XP_015991494.1 PREDICTED: hemoglobin subunit beta [Rousettus a...  264     6e-89   87%         
-XP_026956153.1 hemoglobin subunit beta [Lagenorhynchus obliqui...  264     8e-89   88%         
-XP_004279312.1 PREDICTED: hemoglobin subunit beta [Orcinus orca]   263     2e-88   87%         
-XP_007103054.1 hemoglobin subunit beta-1/2 isoform X2 [Physete...  262     5e-88   86%         
-XP_007448415.1 PREDICTED: hemoglobin subunit beta-like [Lipote...  261     9e-88   87%         
-XP_019523995.1 PREDICTED: hemoglobin subunit beta [Hipposidero...  261     1e-87   86%         
-XP_022422425.1 hemoglobin subunit beta [Delphinapterus leucas]     261     1e-87   86%         
-XP_008569536.1 PREDICTED: hemoglobin subunit beta [Galeopterus...  260     2e-87   85%         
-XP_004590017.1 PREDICTED: hemoglobin subunit beta [Ochotona pr...  260     2e-87   85%         
-XP_029069633.1 LOW QUALITY PROTEIN: hemoglobin subunit beta-li...  260     3e-87   86%         
-XP_017531861.1 PREDICTED: hemoglobin subunit beta [Manis javan...  259     5e-87   85%         
-XP_023974395.1 hemoglobin subunit beta-1/2-like [Physeter cato...  259     5e-87   85%         
-XP_004642055.1 hemoglobin subunit beta [Octodon degus]             259     5e-87   84%         
-XP_019523994.1 PREDICTED: hemoglobin subunit beta-like [Hippos...  259     8e-87   86%         
-XP_004618299.1 PREDICTED: hemoglobin subunit beta isoform X1 [...  258     1e-86   84%         
-XP_028371466.1 hemoglobin subunit beta [Phyllostomus discolor]     258     2e-86   85%         
-XP_008828804.1 hemoglobin subunit beta [Nannospalax galili]        258     2e-86   82%         
-XP_016070462.1 PREDICTED: hemoglobin subunit beta [Miniopterus...  257     3e-86   86%         
-XP_004433956.1 PREDICTED: hemoglobin subunit beta [Ceratotheri...  257     4e-86   86%         
-XP_028371467.1 hemoglobin subunit beta-like [Phyllostomus disc...  257     4e-86   85%         
-WP_130122122.1 hypothetical protein [Acinetobacter pittii]         256     6e-86   85%         
-XP_006195511.1 PREDICTED: hemoglobin subunit beta [Camelus ferus]  256     6e-86   84%         
-XP_004433955.1 PREDICTED: hemoglobin subunit beta [Ceratotheri...  256     9e-86   86%         
-NP_001138313.1 hemoglobin subunit beta [Sus scrofa]                256     9e-86   85%         
-XP_014917562.1 hemoglobin subunit beta [Acinonyx jubatus]          255     2e-85   84%         
-NP_001297213.1 hemoglobin subunit beta [Heterocephalus glaber]     255     3e-85   82%         
-XP_006203487.1 PREDICTED: hemoglobin subunit beta [Vicugna pacos]  255     3e-85   84%         
-NP_001157490.1 hemoglobin subunit beta [Equus caballus]            254     4e-85   84%         
-NP_150237.1 hemoglobin subunit beta-1 [Rattus norvegicus]          254     5e-85   82%         
-XP_004651012.1 PREDICTED: hemoglobin subunit beta [Jaculus jac...  254     5e-85   82%         
-XP_014695112.1 PREDICTED: hemoglobin subunit beta [Equus asinus]   254     7e-85   84%         
-XP_025122293.1 hemoglobin subunit beta [Bubalus bubalis]           253     1e-84   85%         
-XP_005380133.1 PREDICTED: hemoglobin subunit beta [Chinchilla ...  253     1e-84   82%         
-NP_776342.1 hemoglobin subunit beta [Bos taurus]                   252     4e-84   85%         
-XP_010616263.1 PREDICTED: hemoglobin subunit beta-1/2 [Fukomys...  252     4e-84   81%         
-XP_007533485.1 PREDICTED: hemoglobin subunit beta-like [Erinac...  252     4e-84   82%         
-XP_030188264.1 hemoglobin subunit beta-1 [Lynx canadensis]         251     9e-84   82%         
-XP_021108277.1 hemoglobin subunit beta [Heterocephalus glaber]     251     9e-84   80%         
-XP_005907983.1 PREDICTED: hemoglobin subunit beta [Bos mutus]      251     1e-83   84%         
-XP_007172929.1 hemoglobin subunit epsilon-1 [Balaenoptera acut...  251     1e-83   79%         
-XP_003992906.1 hemoglobin subunit beta-A/B [Felis catus]           250     2e-83   82%         
-XP_008707831.1 PREDICTED: hemoglobin subunit epsilon [Ursus ma...  250     2e-83   80%         
-XP_024612794.1 hemoglobin subunit epsilon-1 [Neophocaena asiae...  250     2e-83   79%         
-XP_007533488.1 PREDICTED: hemoglobin subunit beta [Erinaceus e...  250     2e-83   82%         
+NP_001116849.1 Parkinson disease protein 7 [Homo sapiens]          369     7e-129  100%        
+XP_001158093.2 protein/nucleic acid deglycase DJ-1 isoform X1 ...  368     1e-128  99%         
+XP_003939652.1 PREDICTED: protein DJ-1 isoform X2 [Saimiri bol...  367     2e-128  99%         
+XP_030860072.1 protein/nucleic acid deglycase DJ-1 [Gorilla go...  367     2e-128  99%         
+XP_011904884.1 PREDICTED: protein deglycase DJ-1 isoform X1 [C...  369     3e-128  100%        
+XP_521268.2 protein/nucleic acid deglycase DJ-1-like [Pan trog...  367     3e-128  99%         
+XP_010348563.1 PREDICTED: protein DJ-1 isoform X1 [Saimiri bol...  367     3e-128  99%         
+XP_002811596.1 protein/nucleic acid deglycase DJ-1 [Pongo abelii]  367     4e-128  99%         
+XP_002750288.1 PREDICTED: protein deglycase DJ-1 isoform X1 [C...  366     6e-128  99%         
+XP_012329085.1 protein DJ-1 isoform X1 [Aotus nancymaae]           365     2e-127  98%         
+XP_017353814.1 PREDICTED: protein deglycase DJ-1 isoform X1 [C...  365     2e-127  98%         
+XP_006145442.1 protein/nucleic acid deglycase DJ-1 [Tupaia chi...  360     2e-125  98%         
+XP_004705249.1 protein/nucleic acid deglycase DJ-1 isoform X1 ...  360     2e-125  97%         
+XP_006885844.1 PREDICTED: protein DJ-1 [Elephantulus edwardii]     359     5e-125  97%         
+XP_004425597.1 PREDICTED: protein deglycase DJ-1 isoform X1 [C...  358     7e-125  96%         
+XP_003413532.1 protein/nucleic acid deglycase DJ-1 isoform X1 ...  358     1e-124  97%         
+XP_025860869.1 protein/nucleic acid deglycase DJ-1 [Vulpes vul...  358     1e-124  96%         
+XP_021538264.1 LOW QUALITY PROTEIN: protein DJ-1-like [Neomona...  357     2e-124  96%         
+XP_002918719.1 PREDICTED: protein deglycase DJ-1 isoform X1 [A...  357     2e-124  96%         
+XP_022274722.1 protein DJ-1 isoform X2 [Canis lupus familiaris]    357     4e-124  96%         
+XP_026375712.1 protein/nucleic acid deglycase DJ-1 isoform X1 ...  356     6e-124  96%         
+XP_025712227.1 protein/nucleic acid deglycase DJ-1 [Callorhinu...  356     8e-124  96%         
+XP_007078409.1 PREDICTED: protein deglycase DJ-1 [Panthera tig...  356     8e-124  96%         
+XP_014935847.1 protein/nucleic acid deglycase DJ-1 [Acinonyx j...  355     1e-123  96%         
+XP_032719205.1 protein/nucleic acid deglycase DJ-1 [Lontra can...  355     1e-123  96%         
+XP_008056702.1 protein DJ-1 [Carlito syrichta]                     355     1e-123  96%         
+XP_002716191.1 PREDICTED: protein deglycase DJ-1 [Oryctolagus ...  355     2e-123  96%         
+XP_006747185.1 protein/nucleic acid deglycase DJ-1 [Leptonycho...  355     2e-123  96%         
+NP_001072131.1 Parkinson disease protein 7 [Sus scrofa]            355     2e-123  96%         
+XP_012662742.1 protein/nucleic acid deglycase DJ-1 [Otolemur g...  355     2e-123  96%         
+XP_008692987.1 PREDICTED: protein DJ-1 isoform X1 [Ursus marit...  354     3e-123  95%         
+XP_019495395.1 PREDICTED: protein deglycase DJ-1 [Hipposideros...  353     6e-123  96%         
+XP_017506070.1 PREDICTED: protein deglycase DJ-1 [Manis javanica]  353     6e-123  95%         
+XP_022370137.1 protein DJ-1 [Enhydra lutris kenyoni]               353     9e-123  95%         
+NP_001015572.1 Parkinson disease protein 7 homolog [Bos taurus]    353     9e-123  96%         
+XP_001495448.1 protein/nucleic acid deglycase DJ-1 isoform X3 ...  353     1e-122  95%         
+XP_016070179.1 PREDICTED: protein deglycase DJ-1 [Miniopterus ...  353     1e-122  95%         
+XP_006102968.1 protein/nucleic acid deglycase DJ-1 [Myotis luc...  353     1e-122  95%         
+XP_006196677.1 protein/nucleic acid deglycase DJ-1 [Vicugna pa...  352     2e-122  95%         
+XP_014717188.1 PREDICTED: protein deglycase DJ-1 isoform X1 [E...  352     2e-122  95%         
+XP_004013798.1 protein/nucleic acid deglycase DJ-1 [Ovis aries]    352     3e-122  96%         
+XP_005874402.1 PREDICTED: protein deglycase DJ-1 [Myotis brand...  352     3e-122  95%         
+XP_008820666.1 protein/nucleic acid deglycase DJ-1 [Nannospala...  352     3e-122  95%         
+XP_032217324.1 protein/nucleic acid deglycase DJ-1 [Mustela er...  352     3e-122  95%         
+XP_004657734.1 PREDICTED: protein deglycase DJ-1 [Jaculus jacu...  352     3e-122  95%         
+XP_012518498.1 PREDICTED: protein deglycase DJ-1 [Propithecus ...  352     3e-122  95%         
+XP_005690794.1 PREDICTED: protein deglycase DJ-1 [Capra hircus]    352     4e-122  95%         
+XP_032960475.1 protein/nucleic acid deglycase DJ-1 [Rhinolophu...  352     4e-122  95%         
+XP_004385188.1 protein/nucleic acid deglycase DJ-1 [Trichechus...  352     4e-122  95%         
+XP_020761012.1 protein DJ-1 [Odocoileus virginianus texanus]       352     4e-122  96%         
+XP_006873162.1 PREDICTED: protein DJ-1 [Chrysochloris asiatica]    351     8e-122  95%         
+XP_010955895.1 PREDICTED: protein DJ-1 [Camelus bactrianus]        351     8e-122  95%         
+XP_008149959.1 protein/nucleic acid deglycase DJ-1 [Eptesicus ...  351     8e-122  94%         
+XP_024409952.1 protein/nucleic acid deglycase DJ-1 [Desmodus r...  350     1e-121  94%         
+XP_004768686.1 PREDICTED: protein deglycase DJ-1 isoform X1 [M...  350     1e-121  94%         
+XP_006766816.1 PREDICTED: protein deglycase DJ-1 [Myotis davidii]  350     2e-121  94%         
+XP_005334797.1 protein DJ-1 [Ictidomys tridecemlineatus]           349     3e-121  94%         
+XP_015356928.1 PREDICTED: protein deglycase DJ-1 [Marmota marm...  349     3e-121  94%         
+XP_012646959.1 protein deglycase DJ-1 [Microcebus murinus]         349     4e-121  94%         
+XP_011366754.1 protein/nucleic acid deglycase DJ-1 [Pteropus v...  349     4e-121  93%         
+XP_004678545.1 PREDICTED: protein deglycase DJ-1 [Condylura cr...  349     4e-121  93%         
+XP_007940784.1 PREDICTED: protein DJ-1 [Orycteropus afer afer]     349     4e-121  95%         
+XP_005404118.2 PREDICTED: protein deglycase DJ-1 [Chinchilla l...  348     6e-121  94%         
+XP_007534792.1 PREDICTED: protein deglycase DJ-1 [Erinaceus eu...  348     9e-121  94%         
+XP_004596133.1 PREDICTED: protein deglycase DJ-1 [Ochotona pri...  348     1e-120  93%         
+XP_029805592.1 protein/nucleic acid deglycase DJ-1 isoform X1 ...  347     2e-120  93%         
+XP_028369073.1 protein/nucleic acid deglycase DJ-1 [Phyllostom...  347     4e-120  93%         
+XP_004639688.1 protein/nucleic acid deglycase DJ-1 [Octodon de...  347     4e-120  93%         
+XP_007116801.2 protein/nucleic acid deglycase DJ-1 [Physeter c...  346     5e-120  93%         
+XP_025747928.1 protein/nucleic acid deglycase DJ-1-like isofor...  345     1e-119  93%         
+XP_003471499.1 protein/nucleic acid deglycase DJ-1 [Cavia porc...  345     1e-119  93%         
+XP_007170102.1 protein/nucleic acid deglycase DJ-1 [Balaenopte...  345     2e-119  93%         
+XP_005353730.1 protein/nucleic acid deglycase DJ-1 [Microtus o...  345     2e-119  93%         
+XP_006975259.1 PREDICTED: protein deglycase DJ-1 [Peromyscus m...  344     3e-119  93%         
+XP_034359328.1 Parkinson disease protein 7 [Arvicanthis niloti...  344     3e-119  92%         
+XP_028613751.1 protein/nucleic acid deglycase DJ-1 [Grammomys ...  344     3e-119  92%         
+NP_001268568.1 Parkinson disease protein 7 homolog [Mesocricet...  344     3e-119  93%         
+XP_012975382.1 protein DJ-1 isoform X2 [Mesocricetus auratus]      344     4e-119  92%         
+XP_016014205.1 PREDICTED: protein deglycase DJ-1 [Rousettus ae...  344     4e-119  93%         
+NP_001264179.1 Parkinson disease protein 7 homolog isoform 2 [...  343     6e-119  92%         
+XP_028738956.1 protein/nucleic acid deglycase DJ-1 [Peromyscus...  343     1e-118  92%         
+XP_024605698.1 protein/nucleic acid deglycase DJ-1 [Neophocaen...  342     2e-118  92%         
+XP_031235420.1 protein/nucleic acid deglycase DJ-1 [Mastomys c...  342     2e-118  92%         
+XP_019786483.1 protein/nucleic acid deglycase DJ-1 [Tursiops t...  342     3e-118  92%         
+XP_021056452.1 protein/nucleic acid deglycase DJ-1 [Mus pahari]    341     5e-118  92%         
+XP_003513352.1 protein/nucleic acid deglycase DJ-1 [Cricetulus...  341     7e-118  90%         
+XP_026966103.1 protein/nucleic acid deglycase DJ-1 [Lagenorhyn...  340     1e-117  91%         
+NP_065594.2 Parkinson disease protein 7 homolog [Mus musculus]     340     1e-117  92%         
+XP_032750022.1 protein/nucleic acid deglycase DJ-1 [Rattus rat...  340     1e-117  90%         
+XP_022454283.1 protein/nucleic acid deglycase DJ-1 [Delphinapt...  340     2e-117  90%         
+XP_012389438.1 protein/nucleic acid deglycase DJ-1 isoform X2 ...  340     2e-117  91%         
+XP_021016693.1 protein/nucleic acid deglycase DJ-1 [Mus caroli]    339     3e-117  91%         
+XP_004607112.1 PREDICTED: protein deglycase DJ-1 [Sorex araneus]   339     4e-117  92%         
+XP_004272399.2 protein/nucleic acid deglycase DJ-1 isoform X1 ...  340     6e-117  91%         
+XP_003212226.1 protein/nucleic acid deglycase DJ-1 [Meleagris ...  338     8e-117  90%         
+XP_007453370.1 PREDICTED: protein DJ-1 [Lipotes vexillifer]        337     2e-116  90%         
+XP_015738085.1 protein/nucleic acid deglycase DJ-1 [Coturnix j...  337     2e-116  90%         
+XP_030319748.1 protein/nucleic acid deglycase DJ-1 [Calypte anna]  337     3e-116  91%         
+XP_004863742.1 protein DJ-1 isoform X1 [Heterocephalus glaber]     337     3e-116  89%         
+XP_021273438.1 protein DJ-1 [Numida meleagris]                     337     3e-116  90%         
 
 ALIGNMENTS
->WP_108961784.1 MULTISPECIES: hypothetical protein [Enterobacteriaceae]
- NP_000509.1 hemoglobin subunit beta [Homo sapiens]
- XP_003819077.1 hemoglobin subunit beta [Pan paniscus]
- XP_024597794.1 hemoglobin subunit beta [Neophocaena asiaeorientalis asiaeorientalis]
- XP_024597795.1 hemoglobin subunit beta [Neophocaena asiaeorientalis asiaeorientalis]
- XP_508242.1 hemoglobin subunit beta [Pan troglodytes]
-Length=147
-
- Score = 305 bits (780),  Expect = 5e-105
- Identities = 147/147 (100%), Positives = 147/147 (100%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK
-Sbjct  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTPPVQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_018891709.1 PREDICTED: hemoglobin subunit beta [Gorilla gorilla gorilla]
-Length=147
-
- Score = 303 bits (777),  Expect = 2e-104
- Identities = 146/147 (99%), Positives = 147/147 (100%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK
-Sbjct  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENF+LLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTPPVQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_002822173.1 hemoglobin subunit beta [Pongo abelii]
-Length=147
-
- Score = 299 bits (766),  Expect = 7e-103
- Identities = 145/147 (99%), Positives = 145/147 (99%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK
-Sbjct  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTFA LSELHCDKLHVDPENFRLLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFAKLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_017717110.1 PREDICTED: hemoglobin subunit beta [Rhinopithecus bieti]
-Length=147
-
- Score = 295 bits (756),  Expect = 3e-101
- Identities = 142/147 (97%), Positives = 145/147 (99%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTP+EK+AVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLS+PDAVMGNPK
-Sbjct  1    MVHLTPDEKAAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSSPDAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTFA LSELHCDKLHVDPENFRLLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFAQLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_011818991.1 PREDICTED: hemoglobin subunit beta [Colobus angolensis palliatus]
-Length=147
-
- Score = 294 bits (753),  Expect = 7e-101
- Identities = 141/147 (96%), Positives = 145/147 (99%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTP+EK+AVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLS+PDAVMGNPK
-Sbjct  1    MVHLTPDEKAAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSSPDAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTFA LSELHCDKLHVDPENF+LLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFAQLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->NP_001316847.1 hemoglobin subunit beta [Chlorocebus sabaeus]
-Length=147
-
- Score = 294 bits (752),  Expect = 1e-100
- Identities = 141/147 (96%), Positives = 144/147 (98%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTPEEK+AVT LWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLS+PDAVMGNPK
-Sbjct  1    MVHLTPEEKTAVTTLWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSSPDAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTFA LSELHCDKLHVDPENF+LLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFAQLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_010361646.1 PREDICTED: hemoglobin subunit beta [Rhinopithecus roxellana]
-Length=147
-
- Score = 292 bits (748),  Expect = 4e-100
- Identities = 141/147 (96%), Positives = 144/147 (98%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTP+EK+AVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLS+PDAVMGN K
-Sbjct  1    MVHLTPDEKAAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSSPDAVMGNAK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTFA LSELHCDKLHVDPENFRLLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFAQLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->NP_001270296.1 hemoglobin subunit beta [Macaca fascicularis]
- NP_001292888.1 hemoglobin subunit beta [Cercocebus atys]
- XP_011717123.1 hemoglobin subunit beta [Macaca nemestrina]
-Length=147
-
- Score = 291 bits (746),  Expect = 8e-100
- Identities = 140/147 (95%), Positives = 143/147 (97%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTPEEK+AVT LWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLS+PDAVMGNPK
-Sbjct  1    MVHLTPEEKNAVTTLWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSSPDAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGL HLDNLKGTFA LSELHCDKLHVDPENF+LLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLGAFSDGLNHLDNLKGTFAQLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_002754937.1 PREDICTED: hemoglobin subunit beta [Callithrix jacchus]
-Length=147
-
- Score = 291 bits (745),  Expect = 1e-99
- Identities = 142/147 (97%), Positives = 142/147 (97%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT EEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVM NPK
-Sbjct  1    MVHLTGEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMNNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGL HLDNLKGTFA LSELHCDKLHVDPENFRLLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLGAFSDGLTHLDNLKGTFAHLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPVVQAAYQKVVAGVANALAHKYH  147
-
-
->NP_001157900.1 hemoglobin subunit beta [Macaca mulatta]
- XP_011830557.1 PREDICTED: hemoglobin subunit beta isoform X2 [Mandrillus leucophaeus]
- XP_011830558.1 PREDICTED: hemoglobin subunit beta isoform X2 [Mandrillus leucophaeus]
-Length=147
-
- Score = 290 bits (743),  Expect = 2e-99
- Identities = 139/147 (95%), Positives = 143/147 (97%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTPEEK+AVT LWGKVNVDEVGGEALGRLLVVYPWTQRFF+SFGDLS+PDAVMGNPK
-Sbjct  1    MVHLTPEEKTAVTTLWGKVNVDEVGGEALGRLLVVYPWTQRFFDSFGDLSSPDAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGL HLDNLKGTFA LSELHCDKLHVDPENF+LLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLGAFSDGLNHLDNLKGTFAQLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_012312232.1 hemoglobin subunit beta [Aotus nancymaae]
-Length=147
-
- Score = 290 bits (741),  Expect = 5e-99
- Identities = 140/147 (95%), Positives = 143/147 (97%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT EEK+AVTALWGKVNVDEVGGEALGRLLVVYPWTQRFF+SFGDLS+PDAVM NPK
-Sbjct  1    MVHLTGEEKAAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFDSFGDLSSPDAVMNNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTFA LSELHCDKLHVDPENFRLLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFAQLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_023065381.1 hemoglobin subunit beta [Piliocolobus tephrosceles]
-Length=147
-
- Score = 289 bits (740),  Expect = 7e-99
- Identities = 139/147 (95%), Positives = 143/147 (97%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTP+EK+AVT LWGKVNVDEVGGEALGRLLVVYPWTQRFF+SFGDLSTPDAVMGN K
-Sbjct  1    MVHLTPDEKAAVTNLWGKVNVDEVGGEALGRLLVVYPWTQRFFDSFGDLSTPDAVMGNAK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTFA LSELHCDKLHVDPENF+LLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFAQLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->NP_001162318.1 hemoglobin subunit beta [Papio anubis]
-Length=147
-
- Score = 289 bits (739),  Expect = 1e-98
- Identities = 139/147 (95%), Positives = 143/147 (97%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTPEEK+AVTALWGKVNVDEVGGEALGRLLVVYPWTQRFF+SFGDLS+P AVMGNPK
-Sbjct  1    MVHLTPEEKNAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFDSFGDLSSPAAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGL HLDNLKGTFA LSELHCDKLHVDPENF+LLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLGAFSDGLNHLDNLKGTFAQLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_017362775.1 PREDICTED: hemoglobin subunit beta [Cebus capucinus imitator]
-Length=147
-
- Score = 287 bits (735),  Expect = 4e-98
- Identities = 139/147 (95%), Positives = 140/147 (95%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT EEKSAVT LWGKVNVDEVGGEALGRLLVVYPWTQRFF+SFGDLSTPDAVM NPK
-Sbjct  1    MVHLTAEEKSAVTTLWGKVNVDEVGGEALGRLLVVYPWTQRFFDSFGDLSTPDAVMNNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGL HLDNLKGTFA LSELHCDKLHVDPENFRLLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLGAFSDGLTHLDNLKGTFAQLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVA ALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVATALAHKYH  147
-
-
->XP_025213811.1 hemoglobin subunit beta isoform X2 [Theropithecus gelada]
-Length=147
-
- Score = 287 bits (735),  Expect = 4e-98
- Identities = 138/147 (94%), Positives = 142/147 (97%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTPEEK+AVT LWGKVNVDEVGGEALGRLLVVYPWTQRFF+SFGDLS+P AVMGNPK
-Sbjct  1    MVHLTPEEKNAVTTLWGKVNVDEVGGEALGRLLVVYPWTQRFFDSFGDLSSPAAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGL HLDNLKGTFA LSELHCDKLHVDPENF+LLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLGAFSDGLNHLDNLKGTFAQLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_003923418.1 PREDICTED: hemoglobin subunit beta [Saimiri boliviensis boliviensis]
-Length=147
-
- Score = 287 bits (734),  Expect = 6e-98
- Identities = 138/147 (94%), Positives = 142/147 (97%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT +EK+AVTALWGKVNV++VGGEALGRLLVVYPWTQRFFESFGDLSTPDAVM NPK
-Sbjct  1    MVHLTGDEKAAVTALWGKVNVEDVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMNNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGL HLDNLKGTFA LSELHCDKLHVDPENFRLLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLGAFSDGLTHLDNLKGTFAQLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_011818992.1 PREDICTED: hemoglobin subunit delta isoform X1 [Colobus angolensis 
+>NP_001116849.1 Parkinson disease protein 7 [Homo sapiens]
+ NP_009193.2 Parkinson disease protein 7 [Homo sapiens]
+ XP_003891104.1 protein/nucleic acid deglycase DJ-1 [Papio anubis]
+ XP_003891105.1 protein/nucleic acid deglycase DJ-1 [Papio anubis]
+ XP_003891106.1 protein/nucleic acid deglycase DJ-1 [Papio anubis]
+ XP_005263481.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Homo sapiens]
+ XP_010355680.2 protein/nucleic acid deglycase DJ-1 [Rhinopithecus roxellana]
+ XP_011735530.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Macaca nemestrina]
+ XP_011735540.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Macaca nemestrina]
+ XP_011735547.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Macaca nemestrina]
+ XP_011758352.1 protein/nucleic acid deglycase DJ-1 [Macaca nemestrina]
+ XP_011793629.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Colobus angolensis 
 palliatus]
- XP_023065382.1 hemoglobin subunit delta [Piliocolobus tephrosceles]
-Length=147
-
- Score = 286 bits (731),  Expect = 2e-97
- Identities = 138/147 (94%), Positives = 143/147 (97%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTPEEK+AV+ALWGKVNVD VGGEALGRLLVVYPWTQRFFESFGDLS+P AVMGNPK
-Sbjct  1    MVHLTPEEKTAVSALWGKVNVDAVGGEALGRLLVVYPWTQRFFESFGDLSSPAAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTF+ LSELHCDKLHVDPENFRLLGNVLVCVLAH+FG
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFSQLSELHCDKLHVDPENFRLLGNVLVCVLAHNFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_001162045.2 hemoglobin subunit delta [Pan troglodytes]
- XP_002822175.1 hemoglobin subunit delta [Pongo abelii]
- XP_003254870.1 PREDICTED: hemoglobin subunit delta isoform X1 [Nomascus leucogenys]
- XP_003819079.1 hemoglobin subunit delta [Pan paniscus]
-Length=147
-
- Score = 285 bits (730),  Expect = 2e-97
- Identities = 138/147 (94%), Positives = 142/147 (97%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTPEEK+AV ALWGKVNVD VGGEALGRLLVVYPWTQRFFESFGDLS+PDAVMGNPK
-Sbjct  1    MVHLTPEEKTAVNALWGKVNVDAVGGEALGRLLVVYPWTQRFFESFGDLSSPDAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTF+ LSELHCDKLHVDPENFRLLGNVLVCVLA +FG
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFSQLSELHCDKLHVDPENFRLLGNVLVCVLARNFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->NP_000510.1 hemoglobin subunit delta [Homo sapiens]
-Length=147
-
- Score = 284 bits (727),  Expect = 7e-97
- Identities = 137/147 (93%), Positives = 142/147 (97%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTPEEK+AV ALWGKVNVD VGGEALGRLLVVYPWTQRFFESFGDLS+PDAVMGNPK
-Sbjct  1    MVHLTPEEKTAVNALWGKVNVDAVGGEALGRLLVVYPWTQRFFESFGDLSSPDAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTF+ LSELHCDKLHVDPENFRLLGNVLVCVLA +FG
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFSQLSELHCDKLHVDPENFRLLGNVLVCVLARNFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP +QAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQMQAAYQKVVAGVANALAHKYH  147
-
-
->XP_018891710.1 PREDICTED: hemoglobin subunit delta [Gorilla gorilla gorilla]
-Length=147
-
- Score = 284 bits (726),  Expect = 9e-97
- Identities = 137/147 (93%), Positives = 141/147 (96%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTPEEK+AV ALWGKVNVD VGGEALGRLLVVYPWTQRFFESFGDLS+PDAVMGNPK
-Sbjct  1    MVHLTPEEKTAVNALWGKVNVDAVGGEALGRLLVVYPWTQRFFESFGDLSSPDAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTF+ LSELHCDKLHVDPENFRLLGNVLVCVLA +FG
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFSQLSELHCDKLHVDPENFRLLGNVLVCVLARNFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP  QAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQAQAAYQKVVAGVANALAHKYH  147
-
-
->XP_010361647.1 PREDICTED: hemoglobin subunit delta [Rhinopithecus roxellana]
- XP_017717113.1 PREDICTED: hemoglobin subunit delta [Rhinopithecus bieti]
-Length=147
-
- Score = 284 bits (726),  Expect = 9e-97
- Identities = 137/147 (93%), Positives = 143/147 (97%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTPEEK+AV+ALWGKVNVD VGGEALGRLLVVYPWTQRFFESFGDLS+P AVMGNPK
-Sbjct  1    MVHLTPEEKTAVSALWGKVNVDAVGGEALGRLLVVYPWTQRFFESFGDLSSPAAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTF+ LSELHCDKLHVDPENFRLLGNVLVCVLAH+FG
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFSQLSELHCDKLHVDPENFRLLGNVLVCVLAHNFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVA+ALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVADALAHKYH  147
-
-
->XP_004407617.1 PREDICTED: hemoglobin subunit beta isoform X2 [Odobenus rosmarus 
-divergens]
-Length=147
-
- Score = 282 bits (721),  Expect = 5e-96
- Identities = 135/147 (92%), Positives = 142/147 (97%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT +EK+AVTALWGKVNVDEVGGEALGRLLVVYPWTQRFF+SFGDLS+PDAVMGNPK
-Sbjct  1    MVHLTADEKAAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFDSFGDLSSPDAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVL +FSDGL +LDNLKGTFA LSELHCDKLHVDPENF+LLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLNSFSDGLKNLDNLKGTFAKLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_022377479.1 hemoglobin subunit beta isoform X2 [Enhydra lutris kenyoni]
-Length=147
-
- Score = 281 bits (719),  Expect = 1e-95
- Identities = 135/147 (92%), Positives = 142/147 (97%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT EEK+AVTALWGKVNVDEVGGEALGRLLVVYPWTQRFF+SFGDLS+PDAVMGNPK
-Sbjct  1    MVHLTGEEKAAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFDSFGDLSSPDAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVL +FS+GL +LDNLKGTFA LSELHCDKLHVDPENF+LLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLNSFSEGLKNLDNLKGTFAKLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_027435287.1 hemoglobin subunit beta isoform X1 [Zalophus californianus]
- XP_027435288.1 hemoglobin subunit beta isoform X2 [Zalophus californianus]
- XP_027953195.1 hemoglobin subunit beta [Eumetopias jubatus]
- XP_027953196.1 hemoglobin subunit beta [Eumetopias jubatus]
-Length=147
-
- Score = 280 bits (717),  Expect = 2e-95
- Identities = 134/147 (91%), Positives = 141/147 (96%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT +EK+AVT LWGKVNVDEVGGEALGRLLVVYPWTQRFF+SFGDLS+PDAVMGNPK
-Sbjct  1    MVHLTADEKAAVTTLWGKVNVDEVGGEALGRLLVVYPWTQRFFDSFGDLSSPDAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVL +FSDGL +LDNLKGTFA LSELHCDKLHVDPENF+LLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLNSFSDGLKNLDNLKGTFAKLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_025844209.1 hemoglobin subunit beta [Vulpes vulpes]
- XP_025844210.1 hemoglobin subunit beta [Vulpes vulpes]
-Length=147
-
- Score = 279 bits (713),  Expect = 9e-95
- Identities = 134/147 (91%), Positives = 139/147 (95%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT EEKS VT LWGKVNVDEVGGEALGRLL+VYPWTQRFF+SFGDLSTPDAVMGN K
-Sbjct  1    MVHLTAEEKSLVTGLWGKVNVDEVGGEALGRLLIVYPWTQRFFDSFGDLSTPDAVMGNAK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVL +FSDGL +LDNLKGTFA LSELHCDKLHVDPENF+LLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLNSFSDGLKNLDNLKGTFAKLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_004407616.1 PREDICTED: hemoglobin subunit beta-like [Odobenus rosmarus divergens]
-Length=147
-
- Score = 278 bits (711),  Expect = 2e-94
- Identities = 133/147 (90%), Positives = 140/147 (95%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT +EKS V+ LWGKVNVDEVGGEALGRLLVVYPWTQRFF+SFGDLS+PDAVMGNPK
-Sbjct  1    MVHLTADEKSLVSGLWGKVNVDEVGGEALGRLLVVYPWTQRFFDSFGDLSSPDAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVL +FSDGL +LDNLKGTFA LSELHCDKLHVDPENF+LLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLNSFSDGLKNLDNLKGTFAKLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_004779082.1 PREDICTED: hemoglobin subunit beta [Mustela putorius furo]
-Length=147
-
- Score = 277 bits (709),  Expect = 4e-94
- Identities = 133/147 (90%), Positives = 140/147 (95%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT EEK+AVTALWGKVNVDEVGGE LGRLLVVYPWTQRFF+SFGDLS+PDAVM NPK
-Sbjct  1    MVHLTGEEKAAVTALWGKVNVDEVGGETLGRLLVVYPWTQRFFDSFGDLSSPDAVMSNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVL +FS+GL +LDNLKGTFA LSELHCDKLHVDPENF+LLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLNSFSEGLKNLDNLKGTFAKLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_008018084.1 PREDICTED: hemoglobin subunit delta [Chlorocebus sabaeus]
-Length=147
-
- Score = 277 bits (708),  Expect = 5e-94
- Identities = 134/147 (91%), Positives = 140/147 (95%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTPEEK+ V+ALWGKVNVD VGGEALGRLLVV+PWTQRFFESFGDLS+P AVMGNPK
-Sbjct  1    MVHLTPEEKTVVSALWGKVNVDTVGGEALGRLLVVHPWTQRFFESFGDLSSPAAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTF+ LSELHCDKLHVDP NFRLLGNVLVCVLAH+F 
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFSQLSELHCDKLHVDPGNFRLLGNVLVCVLAHNFD  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_008050892.1 hemoglobin subunit beta [Carlito syrichta]
-Length=147
-
- Score = 275 bits (704),  Expect = 2e-93
- Identities = 133/147 (90%), Positives = 139/147 (95%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT EEK+AVTALWGKV+V++VGGEALGRLLVVYPWTQRFF+SFGDLSTP AVM N K
-Sbjct  1    MVHLTAEEKAAVTALWGKVDVEDVGGEALGRLLVVYPWTQRFFDSFGDLSTPAAVMSNAK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVL AFSDG+AHLDNLKGTFA LSELHCDKLHVDPENFRLLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLNAFSDGMAHLDNLKGTFAKLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVA ALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVATALAHKYH  147
-
-
->NP_001291814.1 hemoglobin subunit delta [Ailuropoda melanoleuca]
-Length=147
-
- Score = 275 bits (703),  Expect = 3e-93
- Identities = 132/147 (90%), Positives = 138/147 (94%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT EEK+AVT LW KVNVDEVGGEALGRLLVVYPWTQRFF+SFGDLSTPDAVM NPK
-Sbjct  1    MVHLTGEEKAAVTGLWSKVNVDEVGGEALGRLLVVYPWTQRFFDSFGDLSTPDAVMNNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVL +FS+GL +LDNLKGTF  LSELHCDKLHVDPENF+LLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLNSFSEGLKNLDNLKGTFVKLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->NP_001257812.1 hemoglobin subunit beta-like [Canis lupus familiaris]
- NP_001257813.1 hemoglobin subunit beta-like [Canis lupus familiaris]
- XP_025315009.1 hemoglobin subunit beta [Canis lupus dingo]
- XP_025315010.1 hemoglobin subunit beta [Canis lupus dingo]
-Length=147
-
- Score = 275 bits (703),  Expect = 3e-93
- Identities = 132/147 (90%), Positives = 138/147 (94%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT EEKS V+ LWGKVNVDEVGGEALGRLL+VYPWTQRFF+SFGDLSTPDAVM N K
-Sbjct  1    MVHLTAEEKSLVSGLWGKVNVDEVGGEALGRLLIVYPWTQRFFDSFGDLSTPDAVMSNAK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVL +FSDGL +LDNLKGTFA LSELHCDKLHVDPENF+LLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLNSFSDGLKNLDNLKGTFAKLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_012312233.1 hemoglobin subunit delta [Aotus nancymaae]
-Length=147
-
- Score = 275 bits (702),  Expect = 4e-93
- Identities = 134/147 (91%), Positives = 139/147 (95%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT +EKSAV ALWGKVNV+EVGGEALGRLLVVYPWTQRFFESFGDLS+P AVMGNPK
-Sbjct  1    MVHLTGDEKSAVAALWGKVNVEEVGGEALGRLLVVYPWTQRFFESFGDLSSPAAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTFA LSELHCDKLHVDPENFRLLGNVLVCVLA +FG
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFAQLSELHCDKLHVDPENFRLLGNVLVCVLARNFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP  QAA+QKVVAGVA ALAHKYH
-Sbjct  121  KEFTPLAQAAFQKVVAGVATALAHKYH  147
-
-
->XP_008707833.1 PREDICTED: hemoglobin subunit beta [Ursus maritimus]
- XP_008707834.1 PREDICTED: hemoglobin subunit beta [Ursus maritimus]
- XP_026345437.1 hemoglobin subunit beta [Ursus arctos horribilis]
- XP_026345438.1 hemoglobin subunit beta [Ursus arctos horribilis]
-Length=147
-
- Score = 275 bits (702),  Expect = 4e-93
- Identities = 132/147 (90%), Positives = 138/147 (94%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT EEKS VT LWGKVNVDEVGGEALGRLLVVYPWTQRFF+SFGDLS+ DA+M NPK
-Sbjct  1    MVHLTGEEKSLVTGLWGKVNVDEVGGEALGRLLVVYPWTQRFFDSFGDLSSADAIMNNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVL +FSDGL +LDNLKGTFA LSELHCDKLHVDPENF+LLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLNSFSDGLKNLDNLKGTFAKLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_003781034.1 hemoglobin subunit delta [Otolemur garnettii]
-Length=147
-
- Score = 275 bits (702),  Expect = 4e-93
- Identities = 132/147 (90%), Positives = 139/147 (95%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTP+EK+AV ALWGKVNV+EVGGEALGRLLVVYPWTQRFF+SFGDLS+P AVMGNPK
-Sbjct  1    MVHLTPDEKNAVCALWGKVNVEEVGGEALGRLLVVYPWTQRFFDSFGDLSSPSAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVL AFS+GL HLDNLKGTFA LSELHCDKLHVDPENFRLLGNVLV VLAHHFG
-Sbjct  61   VKAHGKKVLSAFSEGLNHLDNLKGTFAKLSELHCDKLHVDPENFRLLGNVLVVVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            K+FTP VQAAYQKVVAGVA ALAHKYH
-Sbjct  121  KDFTPQVQAAYQKVVAGVATALAHKYH  147
-
-
->NP_001291812.1 hemoglobin subunit beta-like [Ailuropoda melanoleuca]
-Length=147
-
- Score = 274 bits (701),  Expect = 6e-93
- Identities = 132/147 (90%), Positives = 138/147 (94%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT EEK+AVT LW KVNVDEVGGEALGRLLVVYPWTQRFF+SFGDLSTPDAVM NPK
-Sbjct  1    MVHLTGEEKAAVTGLWSKVNVDEVGGEALGRLLVVYPWTQRFFDSFGDLSTPDAVMNNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVL +FS+GL +LDNLKGTFA LSELHCDKLHVDPENF+LL NVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLNSFSEGLKNLDNLKGTFAKLSELHCDKLHVDPENFKLLSNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_004407615.1 PREDICTED: hemoglobin subunit beta [Odobenus rosmarus divergens]
-Length=147
-
- Score = 273 bits (698),  Expect = 2e-92
- Identities = 130/147 (88%), Positives = 139/147 (95%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT +EK+AVTALWGKVNVDEVGGEALGRLLVVYPWTQRFF+SFGDLS+PDAVMGNPK
-Sbjct  1    MVHLTADEKAAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFDSFGDLSSPDAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVL +FSDGL +LDNLKGTFA LSELHCDKLHVDPENF+LLGNVLVCVLA HFG
-Sbjct  61   VKAHGKKVLNSFSDGLKNLDNLKGTFAKLSELHCDKLHVDPENFKLLGNVLVCVLARHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            K+FTP  Q A+QKVVAGVANALAHKYH
-Sbjct  121  KQFTPQAQGAFQKVVAGVANALAHKYH  147
-
-
->XP_025749989.1 hemoglobin subunit beta [Callorhinus ursinus]
-Length=147
-
- Score = 273 bits (698),  Expect = 2e-92
- Identities = 130/147 (88%), Positives = 140/147 (95%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT +EK+AVTALWGKVNVDEVGGEALGRLLVVYPWTQRFF+SFGDLS+PDAVMGN K
-Sbjct  1    MVHLTADEKAAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFDSFGDLSSPDAVMGNAK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVL +FS+GL +LDNLKGTFA LSELHCDKLHVDPENF+LLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLNSFSEGLKNLDNLKGTFAKLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            K+FTP VQ A+QKVVAGVANALAHKYH
-Sbjct  121  KQFTPQVQGAFQKVVAGVANALAHKYH  147
-
-
->NP_001075729.2 hemoglobin subunit beta-1/2 isoform 1 [Oryctolagus cuniculus]
-Length=147
-
- Score = 272 bits (696),  Expect = 4e-92
- Identities = 133/147 (90%), Positives = 138/147 (94%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHL+ EEKSAVTALWGKVNV+EVGGEALGRLLVVYPWTQRFFESFGDLS+  AVM NPK
-Sbjct  1    MVHLSSEEKSAVTALWGKVNVEEVGGEALGRLLVVYPWTQRFFESFGDLSSAHAVMSNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVL AFS+GL HLDNLKGTFA LSELHCDKLHVDPENFRLLGNVLV VL+HHFG
-Sbjct  61   VKAHGKKVLAAFSEGLNHLDNLKGTFAKLSELHCDKLHVDPENFRLLGNVLVVVLSHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_007172930.1 hemoglobin subunit beta [Balaenoptera acutorostrata scammoni]
- XP_007172931.1 hemoglobin subunit beta isoform X1 [Balaenoptera acutorostrata 
-scammoni]
- XP_007172932.1 hemoglobin subunit beta isoform X2 [Balaenoptera acutorostrata 
-scammoni]
-Length=147
-
- Score = 272 bits (695),  Expect = 5e-92
- Identities = 133/147 (90%), Positives = 138/147 (94%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT EEKSAVTALW KVNV+EVGGEALGRLLVVYPWTQRFFE+FGDLST DAVM NPK
-Sbjct  1    MVHLTAEEKSAVTALWAKVNVEEVGGEALGRLLVVYPWTQRFFEAFGDLSTADAVMKNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVL +FSDGL HLD+LKGTFATLSELHCDKLHVDPENFRLLGNVLV VLA HFG
-Sbjct  61   VKAHGKKVLASFSDGLKHLDDLKGTFATLSELHCDKLHVDPENFRLLGNVLVIVLARHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP +QAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPELQAAYQKVVAGVANALAHKYH  147
-
-
->XP_011830554.1 PREDICTED: LOW QUALITY PROTEIN: hemoglobin subunit delta-like 
-[Mandrillus leucophaeus]
-Length=147
-
- Score = 271 bits (694),  Expect = 7e-92
- Identities = 132/147 (90%), Positives = 138/147 (94%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTPEEK+ V+ALWGKVNVD VGGEALGRLLVV+PWTQRFFESFGDLS+P AVMGNPK
-Sbjct  1    MVHLTPEEKTVVSALWGKVNVDAVGGEALGRLLVVHPWTQRFFESFGDLSSPAAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLG FSDGLAHLDNLKGTF+ LSELHCDKLHVDP NFRLLGNVLVCVLAH+F 
-Sbjct  61   VKAHGKKVLGVFSDGLAHLDNLKGTFSQLSELHCDKLHVDPGNFRLLGNVLVCVLAHNFD  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFT  VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTLQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_003923419.1 PREDICTED: hemoglobin subunit delta [Saimiri boliviensis boliviensis]
-Length=147
-
- Score = 271 bits (694),  Expect = 7e-92
- Identities = 133/147 (90%), Positives = 137/147 (93%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT +EKSAV ALW KVNVDEVGGEALGRLLVVYPWTQRFFESFGDLS+  AVMGNPK
-Sbjct  1    MVHLTGDEKSAVAALWSKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSSAAAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGL HLDNLKGTFA LSELHCDKLHVDPENFRLLGNVLVCVLA +FG
-Sbjct  61   VKAHGKKVLGAFSDGLTHLDNLKGTFAQLSELHCDKLHVDPENFRLLGNVLVCVLARNFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAA+QKVVAGVA ALAHKYH
-Sbjct  121  KEFTPQVQAAFQKVVAGVATALAHKYH  147
-
-
->NP_001300972.1 hemoglobin subunit beta-1/2 isoform 1x [Oryctolagus cuniculus]
-Length=170
-
- Score = 272 bits (696),  Expect = 8e-92
- Identities = 133/147 (90%), Positives = 138/147 (94%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHL+ EEKSAVTALWGKVNV+EVGGEALGRLLVVYPWTQRFFESFGDLS+  AVM NPK
-Sbjct  1    MVHLSSEEKSAVTALWGKVNVEEVGGEALGRLLVVYPWTQRFFESFGDLSSAHAVMSNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVL AFS+GL HLDNLKGTFA LSELHCDKLHVDPENFRLLGNVLV VL+HHFG
-Sbjct  61   VKAHGKKVLAAFSEGLNHLDNLKGTFAKLSELHCDKLHVDPENFRLLGNVLVVVLSHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_025213813.1 LOW QUALITY PROTEIN: hemoglobin subunit delta-like [Theropithecus 
+ XP_011793630.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Colobus angolensis 
+palliatus]
+ XP_011793631.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Colobus angolensis 
+palliatus]
+ XP_011793632.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Colobus angolensis 
+palliatus]
+ XP_011793633.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Colobus angolensis 
+palliatus]
+ XP_011836827.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Mandrillus leucophaeus]
+ XP_011904889.1 PREDICTED: protein deglycase DJ-1 isoform X5 [Cercocebus atys]
+ XP_015000741.2 protein/nucleic acid deglycase DJ-1 isoform X1 [Macaca mulatta]
+ XP_015000861.2 protein/nucleic acid deglycase DJ-1 isoform X1 [Macaca mulatta]
+ XP_015000901.2 protein/nucleic acid deglycase DJ-1 isoform X1 [Macaca mulatta]
+ XP_015306634.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Macaca fascicularis]
+ XP_015306637.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Macaca fascicularis]
+ XP_015306640.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Macaca fascicularis]
+ XP_015306643.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Macaca fascicularis]
+ XP_017711545.1 PREDICTED: protein deglycase DJ-1 [Rhinopithecus bieti]
+ XP_017711546.1 PREDICTED: protein deglycase DJ-1 [Rhinopithecus bieti]
+ XP_017711547.1 PREDICTED: protein deglycase DJ-1 [Rhinopithecus bieti]
+ XP_023071026.1 protein/nucleic acid deglycase DJ-1 [Piliocolobus tephrosceles]
+ XP_025220379.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Theropithecus 
 gelada]
-Length=147
+ XP_025220387.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Theropithecus 
+gelada]
+ XP_025220395.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Theropithecus 
+gelada]
+ XP_025220404.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Theropithecus 
+gelada]
+ XP_030661663.1 protein/nucleic acid deglycase DJ-1 [Nomascus leucogenys]
+ XP_030661664.1 protein/nucleic acid deglycase DJ-1 [Nomascus leucogenys]
+ XP_030798112.1 protein/nucleic acid deglycase DJ-1 [Rhinopithecus roxellana]
+ XP_032614696.1 protein/nucleic acid deglycase DJ-1 [Hylobates moloch]
+ XP_032614697.1 protein/nucleic acid deglycase DJ-1 [Hylobates moloch]
+ XP_033031677.1 protein/nucleic acid deglycase DJ-1 [Trachypithecus francoisi]
+ XP_033084403.1 protein/nucleic acid deglycase DJ-1 isoform X2 [Trachypithecus 
+francoisi]
+ XP_033084404.1 protein/nucleic acid deglycase DJ-1 isoform X2 [Trachypithecus 
+francoisi]
+Length=189
 
- Score = 271 bits (693),  Expect = 1e-91
- Identities = 132/147 (90%), Positives = 139/147 (95%), Gaps = 0/147 (0%)
+ Score = 369 bits (946),  Expect = 7e-129
+ Identities = 189/189 (100%), Positives = 189/189 (100%), Gaps = 0/189 (0%)
 
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTPEEK+ V+ALWGKVNVD VGGEALGRLLVV+PWTQRFFESFGDLS+P AVMGNPK
-Sbjct  1    MVHLTPEEKTVVSALWGKVNVDAVGGEALGRLLVVHPWTQRFFESFGDLSSPAAVMGNPK  60
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
 
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTF+ LSELHCDKLHVDP NFRLLGNVLVCVLAH+F 
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFSQLSELHCDKLHVDPGNFRLLGNVLVCVLAHNFD  120
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
 
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFT  VQAAYQKVVAGVANALAHK+H
-Sbjct  121  KEFTLQVQAAYQKVVAGVANALAHKHH  147
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ
+Sbjct  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
 
-
->XP_006915760.1 hemoglobin subunit beta [Pteropus alecto]
-Length=147
-
- Score = 271 bits (692),  Expect = 1e-91
- Identities = 131/147 (89%), Positives = 137/147 (93%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHL+ EEK+AVT LWGKV VDEVGGEALGRLLVVYPWTQRFF+SFGDLS+  AVMGNPK
-Sbjct  1    MVHLSGEEKAAVTGLWGKVKVDEVGGEALGRLLVVYPWTQRFFDSFGDLSSASAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVL +FS+GL HLDNLKGTFA LSELHCDKLHVDPENFRLLGNVLVCVLA HFG
-Sbjct  61   VKAHGKKVLDSFSEGLQHLDNLKGTFAKLSELHCDKLHVDPENFRLLGNVLVCVLARHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
-
-
->XP_008050891.1 hemoglobin subunit delta [Carlito syrichta]
-Length=147
-
- Score = 271 bits (692),  Expect = 1e-91
- Identities = 130/147 (88%), Positives = 138/147 (94%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT +EK+AVTALW KVNV++VGGEALGRLLVVYPWTQRFF+SFGDLSTP AVM N K
-Sbjct  1    MVHLTADEKAAVTALWSKVNVEDVGGEALGRLLVVYPWTQRFFDSFGDLSTPAAVMSNAK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVL AFSDG+AHLDNLKGTFA LSELHCDKLHVDPENFRLLGNVLVCVLAHHFG
-Sbjct  61   VKAHGKKVLNAFSDGMAHLDNLKGTFAKLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            K+FTP +QAAYQKVVAGVA ALAHKYH
-Sbjct  121  KQFTPQLQAAYQKVVAGVAAALAHKYH  147
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
 
 
->XP_023380644.1 hemoglobin subunit beta [Pteropus vampyrus]
-Length=147
+>XP_001158093.2 protein/nucleic acid deglycase DJ-1 isoform X1 [Pan troglodytes]
+ XP_001158489.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Pan troglodytes]
+ XP_003822177.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Pan paniscus]
+ XP_003822178.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Pan paniscus]
+ XP_007978874.1 PREDICTED: protein DJ-1 [Chlorocebus sabaeus]
+ XP_007978876.1 PREDICTED: protein DJ-1 [Chlorocebus sabaeus]
+ XP_007978877.1 PREDICTED: protein DJ-1 [Chlorocebus sabaeus]
+ XP_007978878.1 PREDICTED: protein DJ-1 [Chlorocebus sabaeus]
+ XP_016808954.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Pan troglodytes]
+Length=189
 
- Score = 270 bits (691),  Expect = 2e-91
- Identities = 131/147 (89%), Positives = 137/147 (93%), Gaps = 0/147 (0%)
+ Score = 368 bits (945),  Expect = 1e-128
+ Identities = 188/189 (99%), Positives = 189/189 (100%), Gaps = 0/189 (0%)
 
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHL+ EEK+AVT LWGKV VDEVGGEALGRLLVVYPWTQRFF+SFGDLS+  AVMGNPK
-Sbjct  1    MVHLSGEEKAAVTGLWGKVKVDEVGGEALGRLLVVYPWTQRFFDSFGDLSSAPAVMGNPK  60
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVT+AGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTIAGLAGKDPVQCSRDVVICPDASLED  60
 
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVL +FS+GL HLDNLKGTFA LSELHCDKLHVDPENFRLLGNVLVCVLA HFG
-Sbjct  61   VKAHGKKVLDSFSEGLQHLDNLKGTFAKLSELHCDKLHVDPENFRLLGNVLVCVLARHFG  120
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
 
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTPQVQAAYQKVVAGVANALAHKYH  147
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ
+Sbjct  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
 
-
->XP_011900540.1 PREDICTED: LOW QUALITY PROTEIN: hemoglobin subunit delta-like 
-[Cercocebus atys]
-Length=147
-
- Score = 270 bits (690),  Expect = 3e-91
- Identities = 132/147 (90%), Positives = 138/147 (94%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTPEEK+ V+ALWGKVNVD VGGEALGRLLVV+PWTQRFFESFGDLS+P AVMGNPK
-Sbjct  1    MVHLTPEEKTVVSALWGKVNVDAVGGEALGRLLVVHPWTQRFFESFGDLSSPAAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTF+ LSELHCDKLHVDP NFRLLGNVLVCVLA +F 
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFSQLSELHCDKLHVDPGNFRLLGNVLVCVLAQNFD  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFT  VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFTLQVQAAYQKVVAGVANALAHKYH  147
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
 
 
->XP_017362776.1 PREDICTED: hemoglobin subunit delta [Cebus capucinus imitator]
-Length=147
+>XP_003939652.1 PREDICTED: protein DJ-1 isoform X2 [Saimiri boliviensis boliviensis]
+ XP_010348564.1 PREDICTED: protein DJ-1 isoform X2 [Saimiri boliviensis boliviensis]
+Length=189
 
- Score = 270 bits (690),  Expect = 3e-91
- Identities = 132/147 (90%), Positives = 138/147 (94%), Gaps = 0/147 (0%)
+ Score = 367 bits (943),  Expect = 2e-128
+ Identities = 188/189 (99%), Positives = 189/189 (100%), Gaps = 0/189 (0%)
 
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT EEK+AV +LWGKVNVDEVGGEALGRLLVVYPWTQRFF+SFGDLS+  AVMGN K
-Sbjct  1    MVHLTGEEKAAVASLWGKVNVDEVGGEALGRLLVVYPWTQRFFDSFGDLSSAAAVMGNSK  60
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDV+ICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVMICPDASLED  60
 
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTFA LSELHCDKLHVDPENFRLLGNVLVCVLA +FG
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFAQLSELHCDKLHVDPENFRLLGNVLVCVLARNFG  120
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
 
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQAA+QKVVAGVA ALAHKYH
-Sbjct  121  KEFTPQVQAAFQKVVAGVATALAHKYH  147
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ
+Sbjct  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
 
-
->XP_002754938.1 PREDICTED: hemoglobin subunit delta isoform X1 [Callithrix jacchus]
-Length=147
-
- Score = 270 bits (690),  Expect = 3e-91
- Identities = 131/147 (89%), Positives = 136/147 (93%), Gaps = 0/147 (0%)
-
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLT +EKS V ALW KVNVDEVGGEALGRLLVVYPWTQRFFE FGDLS+P AVMGNPK
-Sbjct  1    MVHLTGDEKSVVAALWSKVNVDEVGGEALGRLLVVYPWTQRFFEFFGDLSSPAAVMGNPK  60
-
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTFA LSELHCDKLHVDPENFRLLGNVLVCVLA +FG
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFAQLSELHCDKLHVDPENFRLLGNVLVCVLARNFG  120
-
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEFTP VQA +QKVVAGVA A+AHKYH
-Sbjct  121  KEFTPQVQAVFQKVVAGVATAMAHKYH  147
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
 
 
->XP_005578971.1 PREDICTED: LOW QUALITY PROTEIN: hemoglobin subunit delta [Macaca 
-fascicularis]
- XP_011717122.1 LOW QUALITY PROTEIN: hemoglobin subunit delta-like [Macaca nemestrina]
- XP_014970547.1 LOW QUALITY PROTEIN: hemoglobin subunit delta-like [Macaca mulatta]
-Length=147
+>XP_030860072.1 protein/nucleic acid deglycase DJ-1 [Gorilla gorilla gorilla]
+ XP_030860078.1 protein/nucleic acid deglycase DJ-1 [Gorilla gorilla gorilla]
+ XP_030860080.1 protein/nucleic acid deglycase DJ-1 [Gorilla gorilla gorilla]
+Length=189
 
- Score = 270 bits (689),  Expect = 4e-91
- Identities = 131/147 (89%), Positives = 138/147 (94%), Gaps = 0/147 (0%)
+ Score = 367 bits (943),  Expect = 2e-128
+ Identities = 188/189 (99%), Positives = 189/189 (100%), Gaps = 0/189 (0%)
 
-Query  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
-            MVHLTPEEK+ V+ALWGKVNVD VGGEALGRLLVV+PWTQRFFESFGDLS+P AVMGNPK
-Sbjct  1    MVHLTPEEKTVVSALWGKVNVDAVGGEALGRLLVVHPWTQRFFESFGDLSSPAAVMGNPK  60
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
 
-Query  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
-            VKAHGKKVLGAFSDGLAHLDNLKGTF+ LSELHCDKLHVDP NFRLLGNVLVC+LAH+F 
-Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFSQLSELHCDKLHVDPGNFRLLGNVLVCMLAHNFD  120
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
 
-Query  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
-            KEF   VQAAYQKVVAGVANALAHKYH
-Sbjct  121  KEFILQVQAAYQKVVAGVANALAHKYH  147
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLA+DKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ
+Sbjct  121  SKVTTHPLARDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_011904884.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Cercocebus atys]
+Length=227
+
+ Score = 369 bits (946),  Expect = 3e-128
+ Identities = 189/189 (100%), Positives = 189/189 (100%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED
+Sbjct  39   MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  98
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG
+Sbjct  99   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  158
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ
+Sbjct  159  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  218
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  219  VKAPLVLKD  227
+
+
+>XP_521268.2 protein/nucleic acid deglycase DJ-1-like [Pan troglodytes]
+Length=189
+
+ Score = 367 bits (942),  Expect = 3e-128
+ Identities = 187/189 (99%), Positives = 189/189 (100%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVT+AGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTIAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ
+Sbjct  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+
+Query  181  VKAPLVLKD  189
+            VK+PLVLKD
+Sbjct  181  VKSPLVLKD  189
+
+
+>XP_010348563.1 PREDICTED: protein DJ-1 isoform X1 [Saimiri boliviensis boliviensis]
+Length=201
+
+ Score = 367 bits (943),  Expect = 3e-128
+ Identities = 188/189 (99%), Positives = 189/189 (100%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDV+ICPDASLED
+Sbjct  13   MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVMICPDASLED  72
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG
+Sbjct  73   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  132
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ
+Sbjct  133  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  192
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  193  VKAPLVLKD  201
+
+
+>XP_002811596.1 protein/nucleic acid deglycase DJ-1 [Pongo abelii]
+ XP_002811597.1 protein/nucleic acid deglycase DJ-1 [Pongo abelii]
+Length=189
+
+ Score = 367 bits (941),  Expect = 4e-128
+ Identities = 187/189 (99%), Positives = 189/189 (100%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVT+AGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTIAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQEN+KGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENQKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ
+Sbjct  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_002750288.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Callithrix jacchus]
+ XP_008998610.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Callithrix jacchus]
+ XP_008998611.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Callithrix jacchus]
+ XP_008998612.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Callithrix jacchus]
+Length=189
+
+ Score = 366 bits (940),  Expect = 6e-128
+ Identities = 187/189 (99%), Positives = 189/189 (100%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDV+ICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVMICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKE+AAQ
+Sbjct  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEMAAQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_012329085.1 protein DJ-1 isoform X1 [Aotus nancymaae]
+ XP_012329086.1 protein DJ-1 isoform X1 [Aotus nancymaae]
+ XP_012329087.1 protein DJ-1 isoform X1 [Aotus nancymaae]
+Length=189
+
+ Score = 365 bits (936),  Expect = 2e-127
+ Identities = 186/189 (98%), Positives = 188/189 (99%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGL GKDPVQCSRDV+ICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLTGKDPVQCSRDVMICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKE+AAQ
+Sbjct  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEMAAQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_017353814.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Cebus capucinus 
+imitator]
+ XP_017353815.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Cebus capucinus 
+imitator]
+ XP_017353816.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Cebus capucinus 
+imitator]
+ XP_032156171.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Sapajus apella]
+ XP_032156172.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Sapajus apella]
+Length=189
+
+ Score = 365 bits (936),  Expect = 2e-127
+ Identities = 186/189 (98%), Positives = 189/189 (100%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDV+ICPD+SLE+
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVMICPDSSLEE  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ
+Sbjct  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_006145442.1 protein/nucleic acid deglycase DJ-1 [Tupaia chinensis]
+ XP_006145443.1 protein/nucleic acid deglycase DJ-1 [Tupaia chinensis]
+Length=189
+
+ Score = 360 bits (923),  Expect = 2e-125
+ Identities = 185/189 (98%), Positives = 186/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HYTYSENRVEKDGLILTSRGPGTSFEFALAIVEAL+GKEVA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALSGKEVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_004705249.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Echinops telfairi]
+Length=189
+
+ Score = 360 bits (923),  Expect = 2e-125
+ Identities = 184/189 (97%), Positives = 186/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDV+ICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVIICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVA Q
+Sbjct  121  SKVTTHPLAKDKMMNGNHYSYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_006885844.1 PREDICTED: protein DJ-1 [Elephantulus edwardii]
+Length=189
+
+ Score = 359 bits (921),  Expect = 5e-125
+ Identities = 184/189 (97%), Positives = 186/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDV+ICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVLICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVA Q
+Sbjct  121  SKVTTHPLAKDKMMNGNHYSYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_004425597.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Ceratotherium simum 
+simum]
+Length=189
+
+ Score = 358 bits (920),  Expect = 7e-125
+ Identities = 182/189 (96%), Positives = 187/189 (99%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVT+AGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTIAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            A+K+GPYDVV+LPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   ARKQGPYDVVLLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_003413532.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Loxodonta africana]
+ XP_023407863.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Loxodonta africana]
+ XP_023407864.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Loxodonta africana]
+Length=189
+
+ Score = 358 bits (919),  Expect = 1e-124
+ Identities = 184/189 (97%), Positives = 185/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAG DPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGNDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVA Q
+Sbjct  121  SKVTTHPLAKDKMMNGNHYSYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_025860869.1 protein/nucleic acid deglycase DJ-1 [Vulpes vulpes]
+ XP_025860870.1 protein/nucleic acid deglycase DJ-1 [Vulpes vulpes]
+Length=189
+
+ Score = 358 bits (918),  Expect = 1e-124
+ Identities = 182/189 (96%), Positives = 186/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDV+ICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVIICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVV+LPGGNLGAQNL ESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVILPGGNLGAQNLCESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVEKDGLILTSRGPGTSFEFALAIVEAL+GKEVA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVEKDGLILTSRGPGTSFEFALAIVEALSGKEVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_021538264.1 LOW QUALITY PROTEIN: protein DJ-1-like [Neomonachus schauinslandi]
+ XP_021539080.1 protein DJ-1 [Neomonachus schauinslandi]
+ XP_021539082.1 protein DJ-1 [Neomonachus schauinslandi]
+ XP_021539083.1 protein DJ-1 [Neomonachus schauinslandi]
+ XP_021539084.1 protein DJ-1 [Neomonachus schauinslandi]
+ XP_021539085.1 protein DJ-1 [Neomonachus schauinslandi]
+ XP_032250230.1 protein/nucleic acid deglycase DJ-1 [Phoca vitulina]
+ XP_032250239.1 protein/nucleic acid deglycase DJ-1 [Phoca vitulina]
+Length=189
+
+ Score = 357 bits (917),  Expect = 2e-124
+ Identities = 182/189 (96%), Positives = 186/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVT+AGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTIAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQERRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVE+DGLILTSRGPGTSFEFALAIVEALNGK+VA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVERDGLILTSRGPGTSFEFALAIVEALNGKDVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_002918719.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Ailuropoda melanoleuca]
+ XP_004397610.1 PREDICTED: protein deglycase DJ-1 [Odobenus rosmarus divergens]
+ XP_004397611.1 PREDICTED: protein deglycase DJ-1 [Odobenus rosmarus divergens]
+ XP_004397612.1 PREDICTED: protein deglycase DJ-1 [Odobenus rosmarus divergens]
+ XP_012416871.1 PREDICTED: protein deglycase DJ-1 [Odobenus rosmarus divergens]
+ XP_019654634.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Ailuropoda melanoleuca]
+ XP_019654636.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Ailuropoda melanoleuca]
+ XP_019654637.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Ailuropoda melanoleuca]
+ XP_027427134.1 protein/nucleic acid deglycase DJ-1 [Zalophus californianus]
+ XP_027427144.1 protein/nucleic acid deglycase DJ-1 [Zalophus californianus]
+ XP_027427150.1 protein/nucleic acid deglycase DJ-1 [Zalophus californianus]
+ XP_027427157.1 protein/nucleic acid deglycase DJ-1 [Zalophus californianus]
+ XP_027427162.1 protein/nucleic acid deglycase DJ-1 [Zalophus californianus]
+ XP_027427170.1 protein/nucleic acid deglycase DJ-1 [Zalophus californianus]
+ XP_027427175.1 protein/nucleic acid deglycase DJ-1 [Zalophus californianus]
+ XP_027964183.1 protein/nucleic acid deglycase DJ-1 [Eumetopias jubatus]
+ XP_027964184.1 protein/nucleic acid deglycase DJ-1 [Eumetopias jubatus]
+ XP_027964185.1 protein/nucleic acid deglycase DJ-1 [Eumetopias jubatus]
+ XP_027964186.1 protein/nucleic acid deglycase DJ-1 [Eumetopias jubatus]
+ XP_027964187.1 protein/nucleic acid deglycase DJ-1 [Eumetopias jubatus]
+ XP_027970363.1 protein/nucleic acid deglycase DJ-1 [Eumetopias jubatus]
+Length=189
+
+ Score = 357 bits (917),  Expect = 2e-124
+ Identities = 182/189 (96%), Positives = 186/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVT+AGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTIAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVE+DGLILTSRGPGTSFEFALAIVEALNGK+VA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVERDGLILTSRGPGTSFEFALAIVEALNGKDVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_022274722.1 protein DJ-1 isoform X2 [Canis lupus familiaris]
+ XP_025283056.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Canis lupus dingo]
+ XP_025283057.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Canis lupus dingo]
+ XP_025283058.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Canis lupus dingo]
+ XP_536733.1 protein DJ-1 isoform X2 [Canis lupus familiaris]
+ XP_859031.1 protein DJ-1 isoform X2 [Canis lupus familiaris]
+Length=189
+
+ Score = 357 bits (915),  Expect = 4e-124
+ Identities = 181/189 (96%), Positives = 186/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDV+ICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVIICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVV+LPGGNLGAQNL ESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVILPGGNLGAQNLCESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVEKDGLILTSRGPGTSFEFALAIVEAL+GK+VA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVEKDGLILTSRGPGTSFEFALAIVEALSGKDVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_026375712.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Ursus arctos 
+horribilis]
+ XP_026375713.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Ursus arctos 
+horribilis]
+ XP_026375714.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Ursus arctos 
+horribilis]
+Length=189
+
+ Score = 356 bits (914),  Expect = 6e-124
+ Identities = 181/189 (96%), Positives = 186/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVT+AGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTIAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            A+KEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   ARKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVE+DGLILTSRGPGTSFEFALAIVEALNGK+VA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVERDGLILTSRGPGTSFEFALAIVEALNGKDVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_025712227.1 protein/nucleic acid deglycase DJ-1 [Callorhinus ursinus]
+ XP_025712229.1 protein/nucleic acid deglycase DJ-1 [Callorhinus ursinus]
+ XP_025712230.1 protein/nucleic acid deglycase DJ-1 [Callorhinus ursinus]
+ XP_025712231.1 protein/nucleic acid deglycase DJ-1 [Callorhinus ursinus]
+ XP_025712232.1 protein/nucleic acid deglycase DJ-1 [Callorhinus ursinus]
+ XP_025712233.1 protein/nucleic acid deglycase DJ-1 [Callorhinus ursinus]
+Length=189
+
+ Score = 356 bits (913),  Expect = 8e-124
+ Identities = 181/189 (96%), Positives = 185/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVT+AGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTIAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVE+DGLILTSRGPGTSFEFALAIVEALNGK+ A Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVERDGLILTSRGPGTSFEFALAIVEALNGKDAADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_007078409.1 PREDICTED: protein deglycase DJ-1 [Panthera tigris altaica]
+ XP_019316814.1 PREDICTED: protein deglycase DJ-1 [Panthera pardus]
+ XP_019316815.1 PREDICTED: protein deglycase DJ-1 [Panthera pardus]
+ XP_019316816.1 PREDICTED: protein deglycase DJ-1 [Panthera pardus]
+ XP_023113828.1 protein/nucleic acid deglycase DJ-1 [Felis catus]
+ XP_023113829.1 protein/nucleic acid deglycase DJ-1 [Felis catus]
+ XP_025788275.1 protein/nucleic acid deglycase DJ-1 [Puma concolor]
+ XP_030180907.1 protein/nucleic acid deglycase DJ-1 [Lynx canadensis]
+ XP_030180908.1 protein/nucleic acid deglycase DJ-1 [Lynx canadensis]
+Length=189
+
+ Score = 356 bits (913),  Expect = 8e-124
+ Identities = 182/189 (96%), Positives = 186/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDV+ICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVLICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVEKDGLILTSRGPGTSFEFALAIVEAL+GK+VA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVEKDGLILTSRGPGTSFEFALAIVEALSGKDVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_014935847.1 protein/nucleic acid deglycase DJ-1 [Acinonyx jubatus]
+ XP_014935848.1 protein/nucleic acid deglycase DJ-1 [Acinonyx jubatus]
+Length=189
+
+ Score = 355 bits (912),  Expect = 1e-123
+ Identities = 181/189 (96%), Positives = 186/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVT+AGLAGKDPVQCSRDV+ICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTIAGLAGKDPVQCSRDVLICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVEKDGLILTSRGPGTSFEFALAIVEAL+GK+VA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVEKDGLILTSRGPGTSFEFALAIVEALSGKDVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_032719205.1 protein/nucleic acid deglycase DJ-1 [Lontra canadensis]
+ XP_032719206.1 protein/nucleic acid deglycase DJ-1 [Lontra canadensis]
+ XP_032719207.1 protein/nucleic acid deglycase DJ-1 [Lontra canadensis]
+Length=189
+
+ Score = 355 bits (912),  Expect = 1e-123
+ Identities = 181/189 (96%), Positives = 185/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVT+AGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTIAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSES AVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESPAVKEILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVE+DGLILTSRGPGTSFEFALAIVEALNGK+VA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVERDGLILTSRGPGTSFEFALAIVEALNGKDVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_008056702.1 protein DJ-1 [Carlito syrichta]
+ XP_008056703.1 protein DJ-1 [Carlito syrichta]
+ XP_008056705.1 protein DJ-1 [Carlito syrichta]
+ XP_008056706.1 protein DJ-1 [Carlito syrichta]
+Length=189
+
+ Score = 355 bits (912),  Expect = 1e-123
+ Identities = 182/189 (96%), Positives = 185/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGL GKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLTGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKE+LKEQE+RKGLIAAICAGPTALLAHEIGF 
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEVLKEQESRKGLIAAICAGPTALLAHEIGFE  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HYTYSENRVEKDGLILTSRGPGTSFEFALAIVEAL GKEVAAQ
+Sbjct  121  SKVTTHPLAKDKMMNGSHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALCGKEVAAQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPL+LKD
+Sbjct  181  VKAPLILKD  189
+
+
+>XP_002716191.1 PREDICTED: protein deglycase DJ-1 [Oryctolagus cuniculus]
+ XP_008264192.1 PREDICTED: protein deglycase DJ-1 [Oryctolagus cuniculus]
+ XP_008264194.1 PREDICTED: protein deglycase DJ-1 [Oryctolagus cuniculus]
+Length=189
+
+ Score = 355 bits (911),  Expect = 2e-123
+ Identities = 182/189 (96%), Positives = 186/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSE+RVE+DGLILTSRGPGTSFEFALAIVEAL+GKEVA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSESRVERDGLILTSRGPGTSFEFALAIVEALSGKEVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_006747185.1 protein/nucleic acid deglycase DJ-1 [Leptonychotes weddellii]
+ XP_030873818.1 protein/nucleic acid deglycase DJ-1 [Leptonychotes weddellii]
+Length=189
+
+ Score = 355 bits (911),  Expect = 2e-123
+ Identities = 181/189 (96%), Positives = 185/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVT+AGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTIAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQERRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVE+DG ILTSRGPGTSFEFALAIVEALNGK+VA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVERDGQILTSRGPGTSFEFALAIVEALNGKDVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>NP_001072131.1 Parkinson disease protein 7 [Sus scrofa]
+Length=189
+
+ Score = 355 bits (910),  Expect = 2e-123
+ Identities = 182/189 (96%), Positives = 185/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVK+ILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKDILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVEKDGLILTSRGPGTSFEFALAIVEAL GKEVA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVEKDGLILTSRGPGTSFEFALAIVEALAGKEVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVL+D
+Sbjct  181  VKAPLVLRD  189
+
+
+>XP_012662742.1 protein/nucleic acid deglycase DJ-1 [Otolemur garnettii]
+ XP_012662743.1 protein/nucleic acid deglycase DJ-1 [Otolemur garnettii]
+Length=189
+
+ Score = 355 bits (910),  Expect = 2e-123
+ Identities = 181/189 (96%), Positives = 185/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVT+AGLAGKDPVQCSRDV+ICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTIAGLAGKDPVQCSRDVLICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQEQRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY YSE+RVEKDGLILTSRGPGTSFEFALAIVEALNGKE+A Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYKYSESRVEKDGLILTSRGPGTSFEFALAIVEALNGKEMADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_008692987.1 PREDICTED: protein DJ-1 isoform X1 [Ursus maritimus]
+ XP_008692988.1 PREDICTED: protein DJ-1 isoform X1 [Ursus maritimus]
+ XP_008692989.1 PREDICTED: protein DJ-1 isoform X1 [Ursus maritimus]
+ XP_008692990.1 PREDICTED: protein DJ-1 isoform X1 [Ursus maritimus]
+Length=189
+
+ Score = 354 bits (909),  Expect = 3e-123
+ Identities = 180/189 (95%), Positives = 185/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVT+AGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTIAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            A+KEGPYDVVVLPGGNLGAQNL ESAAVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   ARKEGPYDVVVLPGGNLGAQNLCESAAVKEILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVE+DGLILTSRGPGTSFEFALAIVEALNGK+VA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVERDGLILTSRGPGTSFEFALAIVEALNGKDVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_019495395.1 PREDICTED: protein deglycase DJ-1 [Hipposideros armiger]
+ XP_019495396.1 PREDICTED: protein deglycase DJ-1 [Hipposideros armiger]
+ XP_019495397.1 PREDICTED: protein deglycase DJ-1 [Hipposideros armiger]
+Length=189
+
+ Score = 353 bits (907),  Expect = 6e-123
+ Identities = 181/189 (96%), Positives = 185/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVE+DGLILTSRGPGTSFEFALAIV AL+GKEVA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVEQDGLILTSRGPGTSFEFALAIVTALSGKEVAEQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVL+D
+Sbjct  181  VKAPLVLRD  189
+
+
+>XP_017506070.1 PREDICTED: protein deglycase DJ-1 [Manis javanica]
+Length=189
+
+ Score = 353 bits (907),  Expect = 6e-123
+ Identities = 180/189 (95%), Positives = 186/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVT+AGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTIAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVEKDGLILTSRGPGTSFEFALAIVEAL+G+ VA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVEKDGLILTSRGPGTSFEFALAIVEALSGQAVAEQ  180
+
+Query  181  VKAPLVLKD  189
+            V+APLVLK+
+Sbjct  181  VRAPLVLKN  189
+
+
+>XP_022370137.1 protein DJ-1 [Enhydra lutris kenyoni]
+ XP_022370138.1 protein DJ-1 [Enhydra lutris kenyoni]
+ XP_022370139.1 protein DJ-1 [Enhydra lutris kenyoni]
+ XP_022370140.1 protein DJ-1 [Enhydra lutris kenyoni]
+Length=189
+
+ Score = 353 bits (906),  Expect = 9e-123
+ Identities = 180/189 (95%), Positives = 184/189 (97%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVT+AGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTIAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSES AVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESPAVKEILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVE+DGLILTSRGPGTSFEFALAIVEAL GK+VA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVERDGLILTSRGPGTSFEFALAIVEALGGKDVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>NP_001015572.1 Parkinson disease protein 7 homolog [Bos taurus]
+ XP_005217012.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Bos taurus]
+ XP_005217013.1 protein/nucleic acid deglycase DJ-1 isoform X1 [Bos taurus]
+ XP_005892755.1 PREDICTED: protein deglycase DJ-1 [Bos mutus]
+ XP_006076733.1 protein/nucleic acid deglycase DJ-1 [Bubalus bubalis]
+ XP_010848238.1 PREDICTED: protein DJ-1 [Bison bison bison]
+ XP_014332772.1 PREDICTED: protein deglycase DJ-1 [Bos mutus]
+ XP_014332773.1 PREDICTED: protein deglycase DJ-1 [Bos mutus]
+ XP_014332774.1 PREDICTED: protein deglycase DJ-1 [Bos mutus]
+ XP_014332775.1 PREDICTED: protein deglycase DJ-1 [Bos mutus]
+ XP_014332776.1 PREDICTED: protein deglycase DJ-1 [Bos mutus]
+ XP_019832188.1 PREDICTED: protein deglycase DJ-1 [Bos indicus]
+ XP_019832189.1 PREDICTED: protein deglycase DJ-1 [Bos indicus]
+ XP_027420804.1 protein/nucleic acid deglycase DJ-1 [Bos indicus x Bos taurus]
+ XP_027420805.1 protein/nucleic acid deglycase DJ-1 [Bos indicus x Bos taurus]
+ XP_027420807.1 protein/nucleic acid deglycase DJ-1 [Bos indicus x Bos taurus]
+Length=189
+
+ Score = 353 bits (906),  Expect = 9e-123
+ Identities = 182/189 (96%), Positives = 183/189 (97%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVEKDGLILTSRGPGTSFEFAL IVE L GKEVA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVEKDGLILTSRGPGTSFEFALKIVEVLVGKEVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_001495448.1 protein/nucleic acid deglycase DJ-1 isoform X3 [Equus caballus]
+ XP_008534690.1 PREDICTED: protein DJ-1 isoform X1 [Equus przewalskii]
+Length=189
+
+ Score = 353 bits (905),  Expect = 1e-122
+ Identities = 180/189 (95%), Positives = 185/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVT+AGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTIAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKK+GPYDVVVLPGGNLGAQNLSESAAVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKQGPYDVVVLPGGNLGAQNLSESAAVKEILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHP AKDK+MNG HY+YSENRVEKDGLILTSRGPGTSFEFALAIVEAL+GKEVA Q
+Sbjct  121  SKVTTHPQAKDKIMNGSHYSYSENRVEKDGLILTSRGPGTSFEFALAIVEALSGKEVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_016070179.1 PREDICTED: protein deglycase DJ-1 [Miniopterus natalensis]
+ XP_016070180.1 PREDICTED: protein deglycase DJ-1 [Miniopterus natalensis]
+ XP_016070181.1 PREDICTED: protein deglycase DJ-1 [Miniopterus natalensis]
+Length=189
+
+ Score = 353 bits (905),  Expect = 1e-122
+ Identities = 180/189 (95%), Positives = 186/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNL ESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLCESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSE+RVE+DG ILTSRGPGTSFEFALAIVEAL+G+EVAAQ
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSESRVERDGQILTSRGPGTSFEFALAIVEALSGQEVAAQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVL+D
+Sbjct  181  VKAPLVLRD  189
+
+
+>XP_006102968.1 protein/nucleic acid deglycase DJ-1 [Myotis lucifugus]
+ XP_006102969.1 protein/nucleic acid deglycase DJ-1 [Myotis lucifugus]
+ XP_023600019.1 protein/nucleic acid deglycase DJ-1 [Myotis lucifugus]
+Length=189
+
+ Score = 353 bits (905),  Expect = 1e-122
+ Identities = 179/189 (95%), Positives = 185/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDV+ICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVIICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            A+KEGPYDVVVLPGGNLGAQNL ESAAVKEILKEQ+ RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   ARKEGPYDVVVLPGGNLGAQNLCESAAVKEILKEQQGRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVEKDGLILTSRGPGTSFEFALAIVEAL+GKEVA Q
+Sbjct  121  SKVTTHPLAKDKMMNGNHYSYSENRVEKDGLILTSRGPGTSFEFALAIVEALSGKEVAEQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVL+D
+Sbjct  181  VKAPLVLRD  189
+
+
+>XP_006196677.1 protein/nucleic acid deglycase DJ-1 [Vicugna pacos]
+ XP_010999090.1 protein/nucleic acid deglycase DJ-1 [Camelus dromedarius]
+ XP_032350999.1 protein/nucleic acid deglycase DJ-1 [Camelus ferus]
+ XP_032351000.1 protein/nucleic acid deglycase DJ-1 [Camelus ferus]
+Length=189
+
+ Score = 352 bits (904),  Expect = 2e-122
+ Identities = 180/189 (95%), Positives = 185/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKE+LKEQE  KGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEVLKEQEKSKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSE+RVE+DGLILTSRGPGTSFEFALAIVEAL GKEVAAQ
+Sbjct  121  SKVTTHPLAKDKMMNGNHYSYSESRVERDGLILTSRGPGTSFEFALAIVEALAGKEVAAQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVL+D
+Sbjct  181  VKAPLVLRD  189
+
+
+>XP_014717188.1 PREDICTED: protein deglycase DJ-1 isoform X1 [Equus asinus]
+Length=189
+
+ Score = 352 bits (904),  Expect = 2e-122
+ Identities = 179/189 (95%), Positives = 185/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVT+AGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTIAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKK+GPYDVVVLPGGNLGAQNLSESAAVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKQGPYDVVVLPGGNLGAQNLSESAAVKEILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHP AKDK+MNG HY+YSENRVEKDGLILTSRGPGTSFEFALAI+EAL+GKEVA Q
+Sbjct  121  SKVTTHPQAKDKIMNGSHYSYSENRVEKDGLILTSRGPGTSFEFALAIIEALSGKEVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_004013798.1 protein/nucleic acid deglycase DJ-1 [Ovis aries]
+Length=189
+
+ Score = 352 bits (903),  Expect = 3e-122
+ Identities = 181/189 (96%), Positives = 183/189 (97%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            A+KEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   ARKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVEKDGLILTSRGPGTSFEFAL IVE L GKEVA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVEKDGLILTSRGPGTSFEFALKIVEVLVGKEVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_005874402.1 PREDICTED: protein deglycase DJ-1 [Myotis brandtii]
+Length=189
+
+ Score = 352 bits (903),  Expect = 3e-122
+ Identities = 179/189 (95%), Positives = 185/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            A+KEGPYDVVVLPGGNLGAQNL ESAAVKEILKEQ+ RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   ARKEGPYDVVVLPGGNLGAQNLCESAAVKEILKEQQGRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVEKDGLILTSRGPGTSFEFALAIVEAL+GK+VA Q
+Sbjct  121  SKVTTHPLAKDKMMNGNHYSYSENRVEKDGLILTSRGPGTSFEFALAIVEALSGKDVAEQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVL+D
+Sbjct  181  VKAPLVLRD  189
+
+
+>XP_008820666.1 protein/nucleic acid deglycase DJ-1 [Nannospalax galili]
+ XP_008820667.1 protein/nucleic acid deglycase DJ-1 [Nannospalax galili]
+Length=189
+
+ Score = 352 bits (903),  Expect = 3e-122
+ Identities = 179/189 (95%), Positives = 185/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKK+GPYDVVVLPGGNLGAQNLSES  VKEILKEQE+RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKQGPYDVVVLPGGNLGAQNLSESGLVKEILKEQESRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKD+MMNG HY+YSE+RVE+DGLILTSRGPGTSFEFALAIVEALNGKEVA Q
+Sbjct  121  SKVTTHPLAKDRMMNGSHYSYSESRVERDGLILTSRGPGTSFEFALAIVEALNGKEVAEQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_032217324.1 protein/nucleic acid deglycase DJ-1 [Mustela erminea]
+ XP_032217325.1 protein/nucleic acid deglycase DJ-1 [Mustela erminea]
+ XP_032217326.1 protein/nucleic acid deglycase DJ-1 [Mustela erminea]
+Length=189
+
+ Score = 352 bits (903),  Expect = 3e-122
+ Identities = 179/189 (95%), Positives = 184/189 (97%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVT+AGL+G DPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTIAGLSGTDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSES AVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESPAVKEILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVE+DGLILTSRGPGTSFEFALAIVEALNGK+VA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVERDGLILTSRGPGTSFEFALAIVEALNGKDVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_004657734.1 PREDICTED: protein deglycase DJ-1 [Jaculus jaculus]
+Length=189
+
+ Score = 352 bits (903),  Expect = 3e-122
+ Identities = 179/189 (95%), Positives = 186/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGK+PVQCSRDVVICPD SLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKEPVQCSRDVVICPDTSLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            A+K+GPYDVVVLPGGNLGAQNLSESAAVKEILKEQE+RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   ARKQGPYDVVVLPGGNLGAQNLSESAAVKEILKEQESRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSE+RVE+DGLILTSRGPGTSFEFALAIVEALNGKEVA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSESRVERDGLILTSRGPGTSFEFALAIVEALNGKEVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_012518498.1 PREDICTED: protein deglycase DJ-1 [Propithecus coquereli]
+Length=189
+
+ Score = 352 bits (903),  Expect = 3e-122
+ Identities = 179/189 (95%), Positives = 185/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVT+AGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTIAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKK+GPYDVVVLPGGNLGAQNLSESAAVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKQGPYDVVVLPGGNLGAQNLSESAAVKEILKEQEERKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSE+RVEKDGLILTSRGPGTSFEFAL IVEAL+GKE+A Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSESRVEKDGLILTSRGPGTSFEFALTIVEALSGKEMADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_005690794.1 PREDICTED: protein deglycase DJ-1 [Capra hircus]
+Length=189
+
+ Score = 352 bits (902),  Expect = 4e-122
+ Identities = 180/189 (95%), Positives = 183/189 (97%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            A+KEGPYDVVVLPGGNLGAQNLSESAAVKE+LKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   ARKEGPYDVVVLPGGNLGAQNLSESAAVKEVLKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVEKDGLILTSRGPGTSFEFAL IVE L GKEVA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVEKDGLILTSRGPGTSFEFALKIVEVLVGKEVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_032960475.1 protein/nucleic acid deglycase DJ-1 [Rhinolophus ferrumequinum]
+ XP_032971149.1 protein/nucleic acid deglycase DJ-1 [Rhinolophus ferrumequinum]
+ XP_032971150.1 protein/nucleic acid deglycase DJ-1 [Rhinolophus ferrumequinum]
+ XP_032971151.1 protein/nucleic acid deglycase DJ-1 [Rhinolophus ferrumequinum]
+ XP_032971152.1 protein/nucleic acid deglycase DJ-1 [Rhinolophus ferrumequinum]
+Length=189
+
+ Score = 352 bits (902),  Expect = 4e-122
+ Identities = 179/189 (95%), Positives = 185/189 (98%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQE RKGLIAAICAGPTALLAHEIG+G
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQEKRKGLIAAICAGPTALLAHEIGYG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVE+DGLI+TSRGPGTSFEFALAIV AL+GKEVA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVEQDGLIITSRGPGTSFEFALAIVTALSGKEVAQQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVL+D
+Sbjct  181  VKAPLVLRD  189
+
+
+>XP_004385188.1 protein/nucleic acid deglycase DJ-1 [Trichechus manatus latirostris]
+ XP_023595147.1 protein/nucleic acid deglycase DJ-1 [Trichechus manatus latirostris]
+Length=189
+
+ Score = 352 bits (902),  Expect = 4e-122
+ Identities = 179/189 (95%), Positives = 184/189 (97%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVT+AGLAGKDPVQCSR VVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTIAGLAGKDPVQCSRHVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSES AVK+ILKEQE RKGLIAAICAGPTALLAHE+GFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESPAVKDILKEQEKRKGLIAAICAGPTALLAHEVGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVEKDGLILTSRGPGTSFEFALAIVEAL+GKEVA Q
+Sbjct  121  SKVTTHPLAKDKMMNGNHYSYSENRVEKDGLILTSRGPGTSFEFALAIVEALSGKEVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
+
+
+>XP_020761012.1 protein DJ-1 [Odocoileus virginianus texanus]
+ XP_020761707.1 protein DJ-1 [Odocoileus virginianus texanus]
+Length=189
+
+ Score = 352 bits (902),  Expect = 4e-122
+ Identities = 181/189 (96%), Positives = 182/189 (96%), Gaps = 0/189 (0%)
+
+Query  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+            MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED
+Sbjct  1    MASKRALVILAKGAEEMETVIPVDVMRRAGIKVTVAGLAGKDPVQCSRDVVICPDASLED  60
+
+Query  61   AKKEGPYDVVVLPGGNLGAQNLSESAAVKEILKEQENRKGLIAAICAGPTALLAHEIGFG  120
+            AKKEGPYDVVVLPGGNLGAQNLSES AVKEILKEQE RKGLIAAICAGPTALLAHEIGFG
+Sbjct  61   AKKEGPYDVVVLPGGNLGAQNLSESTAVKEILKEQEKRKGLIAAICAGPTALLAHEIGFG  120
+
+Query  121  SKVTTHPLAKDKMMNGGHYTYSENRVEKDGLILTSRGPGTSFEFALAIVEALNGKEVAAQ  180
+            SKVTTHPLAKDKMMNG HY+YSENRVEKDGLILTSRGPGTSFEFAL IVE L GKEVA Q
+Sbjct  121  SKVTTHPLAKDKMMNGSHYSYSENRVEKDGLILTSRGPGTSFEFALKIVEVLVGKEVADQ  180
+
+Query  181  VKAPLVLKD  189
+            VKAPLVLKD
+Sbjct  181  VKAPLVLKD  189
 
 
   Database: NCBI Protein Reference Sequences
-    Posted date:  Aug 30, 2019  12:43 AM
-  Number of letters in database: 56,034,880,157
-  Number of sequences in database:  147,564,492
+    Posted date:  May 17, 2020  2:33 AM
+  Number of letters in database: 64,140,333,617
+  Number of sequences in database:  168,690,030
 
 Lambda      K        H
-   0.320    0.137    0.422 
+   0.314    0.133    0.369 
 Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 Matrix: BLOSUM62
 Gap Penalties: Existence: 11, Extension: 1
-Number of Sequences: 147564492
-Number of Hits to DB: 289452097
-Number of extensions: 11600641
-Number of successful extensions: 23624
-Number of sequences better than 1e-10: 38
+Number of Sequences: 168690030
+Number of Hits to DB: 1165135139
+Number of extensions: 48168657
+Number of successful extensions: 108552
+Number of sequences better than 1e-10: 612
 Number of HSP's better than 1e-10 without gapping: 0
-Number of HSP's gapped: 23604
-Number of HSP's successfully gapped: 38
-Length of query: 147
-Length of database: 56034880157
-Length adjustment: 112
-Effective length of query: 35
-Effective length of database: 39507657053
-Effective search space: 1382767996855
-Effective search space used: 1382767996855
+Number of HSP's gapped: 108103
+Number of HSP's successfully gapped: 629
+Length of query: 189
+Length of database: 64140333617
+Length adjustment: 147
+Effective length of query: 42
+Effective length of database: 39342899207
+Effective search space: 1652401766694
+Effective search space used: 1652401766694
 T: 11
 A: 40
-X1: 16 (7.4 bits)
+X1: 16 (7.3 bits)
 X2: 38 (14.6 bits)
 X3: 64 (24.7 bits)
-S1: 41 (20.4 bits)
-S2: 179 (73.6 bits)
+S1: 42 (20.8 bits)
+S2: 180 (73.9 bits)
 ka-blk-alpha gapped: 1.9
 ka-blk-alpha ungapped: 0.7916
 ka-blk-alpha_v gapped: 42.6028
