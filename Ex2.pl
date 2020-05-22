@@ -18,7 +18,7 @@ $blast_remoto = Bio::Tools::Run::RemoteBlast->new(
                 '-readmethod' => $output_file);
 
 # cargo el archivo fasta con el que se va a trabajar
-my $secuencia = Bio::SeqIO ->new (-file =>"seq.fas", -format =>'fasta');
+my $secuencia = Bio::SeqIO ->new (-file =>"result.fas", -format =>'fasta');
 
 
 

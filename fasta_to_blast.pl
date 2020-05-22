@@ -1,9 +1,9 @@
 use Bio::Tools::Run::RemoteBlast;
 use Bio::SeqIO;
 
-$db = 'nt';
+$db = 'nr';
 $prog = 'blastp';
-$readmethod = 'SearchIO';
+$readmethod = 'blast';
 $output_file = 'blast.out';
 $e_val= '1e-10';
 
@@ -15,16 +15,18 @@ $blast_remoto = Bio::Tools::Run::RemoteBlast->new(
                '-prog' => $prog,
                '-data' => $db,
                 '-expect' => $e_val,
-                '-readmethod' => $output_file);
+                '-readmethod' => $readmethod);
 
 # cargo el archivo fasta con el que se va a trabajar
-my $secuencia = Bio::SeqIO ->new (-file =>"result.fas", -format =>'fasta');
-
-
+my $secuencia = Bio::SeqIO->new(-file =>"result.fas", -format =>'Fasta');
 
 while (my $input = $secuencia -> next_seq()){
+    print $input -> seq() . "\n";
     my $r = $blast_remoto->submit_blast($input);
+    print $r . "\n";
+    print $blast_remoto -> each_rid . "\n";
     while ( my @rids = $blast_remoto->each_rid ) {
+        
         foreach my $rid ( @rids ) {
             my $rc = $blast_remoto->retrieve_blast($rid);
             if( !ref($rc) ) {
@@ -33,9 +35,10 @@ while (my $input = $secuencia -> next_seq()){
                 }
             } 
             else {
-                my $result = $rc->next_result();                    
-                $blast_remoto->save_output("blast.out");
+                my $result = $rc->next_result();      
+                $blast_remoto->save_output($output_file);
                 $blast_remoto->remove_rid($rid);
+                print "done";
             }
         }
     }
