@@ -1,0 +1,469 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Tue 16 Jun 2020 20:47:16
+# Commandline: patmatmotifs
+#    -sequence /tmp/971WegEne5/iluxI3DbYE
+#    -full 1
+#    -outfile sequence.patmatmotifs
+#    -auto
+# Report_format: dbmotif
+# Report_file: sequence.patmatmotifs
+########################################
+
+#=======================================
+#
+# Sequence: NM_001123377     from: 1   to: 921
+# HitCount: 5
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 12
+Start = position 727 of sequence
+End = position 738 of sequence
+
+Motif = EGF_1
+
+CCATTCTCACTGTGTTCGCTCT
+     |          |
+   727          738
+
+Length = 12
+Start = position 653 of sequence
+End = position 664 of sequence
+
+Motif = EGF_1
+
+GAAGGCTCCACTTGTTCTTAAA
+     |          |
+   653          664
+
+Length = 12
+Start = position 414 of sequence
+End = position 425 of sequence
+
+Motif = EGF_1
+
+ATAGCCGCCATCTGTGCAGGTC
+     |          |
+   414          425
+
+Length = 14
+Start = position 391 of sequence
+End = position 404 of sequence
+
+Motif = THIOLASE_3
+
+AGCAGGAAAACCGGAAGGGCCTGA
+     |            |
+   391            404
+
+Length = 9
+Start = position 124 of sequence
+End = position 132 of sequence
+
+Motif = 2FE2S_FER_1
+
+GAGCTCTGGTCATCCTGGC
+     |       |
+   124       132
+
+
+#---------------------------------------
+#
+# Motif: EGF_1
+# Count: 3
+# 
+# ******************************************
+# * EGF-like domain signatures and profile *
+# ******************************************
+# 
+# A sequence of  about thirty  to forty amino-acid  residues  long found in  the
+# sequence of  epidermal  growth  factor  (EGF)  has been  shown  [1 to 6] to be
+# present, in  a more or less conserved form, in a large number of other, mostly
+# animal  proteins.  EGF  is  a  polypeptide  of about 50 amino acids with three
+# internal  disulfide  bridges.  It  first  binds with high affinity to specific
+# cell-surface receptors and then induces their dimerization, which is essential
+# for  activating  the  tyrosine  kinase  in  the  receptor  cytoplasmic domain,
+# initiating  a  signal  transduction  that  results  in  DNA synthesis and cell
+# proliferation.
+# 
+# A  common  feature  of  all  EGF-like  domains  is  that they are found in the
+# extracellular  domain  of  membrane-bound  proteins or in proteins known to be
+# secreted (exception: prostaglandin G/H synthase). The EGF-like domain includes
+# six cysteine residues which have been shown to be involved in disulfide bonds.
+# The  structure  of several EGF-like domains has been solved. The fold consists
+# of   two-stranded  beta-sheet  followed  by  a  loop  to  a  C-terminal  short
+# two-stranded sheet   (see   <PDB:1EGF>).   Subdomains  between  the  conserved
+# cysteines strongly  vary  in  length  as  shown  in  the  following  schematic
+# representation of the EGF-like domain:
+# 
+#                  +-------------------+        +-------------------------+
+#                  |                   |        |                         |
+#   x(4)-C-x(0,48)-C-x(3,12)-C-x(1,70)-C-x(1,6)-C-x(2)-G-a-x(0,21)-G-x(2)-C-x
+#        |                   |         ************************************
+#        +-------------------+
+# 
+# 'C': conserved cysteine involved in a disulfide bond.
+# 'G': often conserved glycine
+# 'a': often conserved aromatic amino acid
+# '*': position of both patterns.
+# 'x': any residue
+# 
+# Some  proteins  known  to contain one or more copies of an EGF-like domain are
+# listed below.
+# 
+#  - Adipocyte differentiation inhibitor (gene PREF-1) from mouse (6 copies).
+#  - Agrin, a basal lamina protein  that causes the aggregation of acetylcholine
+#    receptors on cultured muscle fibers (4 copies).
+#  - Amphiregulin, a growth factor (1 copy).
+#  - Betacellulin, a growth factor (1 copy).
+#  - Blastula  proteins  BP10  and  Span from sea urchin which are thought to be
+#    involved in pattern formation (1 copy).
+#  - BM86, a glycoprotein antigen of cattle tick (7 copies).
+#  - Bone morphogenic protein 1 (BMP-1), a  protein which induces cartilage  and
+#    bone formation  and  which  expresses  metalloendopeptidase  activity  (1-2
+#    copies). Homologous proteins are found in sea urchin - suBMP (1 copy) - and
+#    in Drosophila - the dorsal-ventral patterning protein tolloid (2 copies).
+#  - Caenorhabditis elegans developmental proteins lin-12 (13 copies)  and glp-1
+#    (10 copies).
+#  - Caenorhabditis elegans apx-1 protein, a patterning protein (4.5 copies).
+#  - Calcium-dependent serine proteinase (CASP) which degrades the extracellular
+#    matrix proteins type I and IV collagen and fibronectin (1 copy).
+#  - Cartilage matrix protein CMP (1 copy).
+#  - Cartilage oligomeric matrix protein COMP (4 copies).
+#  - Cell surface antigen 114/A10 (3 copies).
+#  - Cell surface glycoprotein complex transmembrane subunit ASGP-2  from rat (2
+#    copies).
+#  - Coagulation associated proteins C, Z (2 copies) and S (4 copies).
+#  - Coagulation factors VII, IX, X and XII (2 copies).
+#  - Complement C1r components (1 copy).
+#  - Complement C1s components (1 copy).
+#  - Complement-activating component of Ra-reactive factor (RARF) (1 copy).
+#  - Complement components C6, C7, C8 alpha and beta chains, and C9 (1 copy).
+#  - Crumbs, an epithelial development protein from Drosophila (29 copies).
+#  - Epidermal growth factor precursor (7-9 copies).
+#  - Exogastrula-inducing peptides A, C, D and X from sea urchin (1 copy).
+#  - Fat protein, a Drosophila cadherin-related tumor suppressor (5 copies).
+#  - Fetal  antigen  1, a probable neuroendocrine differentiation protein, which
+#    is derived from the delta-like protein (DLK) (6 copies).
+#  - Fibrillin 1 (47 copies) and fibrillin 2 (14 copies).
+#  - Fibropellins  IA  (21 copies), IB (13 copies), IC (8 copies), II (4 copies)
+#    and III   (8   copies)  from  the  apical  lamina  -  a  component  of  the
+#    extracellular matrix - of sea urchin.
+#  - Fibulin-1 and -2, two extracellular matrix proteins (9-11 copies).
+#  - Giant-lens  protein (protein Argos), which regulates cell determination and
+#    axon guidance in the Drosophila eye (1 copy).
+#  - Growth factor-related proteins from various poxviruses (1 copy).
+#  - Gurken protein, a Drosophila developmental protein (1 copy).
+#  - Heparin-binding EGF-like growth factor (HB-EGF), transforming growth factor
+#    alpha (TGF-alpha), growth factors Lin-3 and Spitz (1 copy);  the precursors
+#    are membrane proteins, the mature form is located extracellular.
+#  - Hepatocyte growth factor (HGF) activator (EC 3.4.21.-) (2 copies).
+#  - LDL  and  VLDL receptors, which bind and transport low-density lipoproteins
+#    and very low-density lipoproteins (3 copies).
+#  - LDL  receptor-related  protein  (LRP), which  may  act  as  a  receptor for
+#    endocytosis of extracellular ligands (22 copies).
+#  - Leucocyte  antigen  CD97  (3  copies),  cell  surface  glycoprotein EMR1 (6
+#    copies) and cell surface glycoprotein F4/80 (7 copies).
+#  - Limulus clotting factor C, which is involved in hemostasis and host defense
+#    mechanisms in japanese horseshoe crab (1 copy).
+#  - Meprin A alpha subunit, a mammalian membrane-bound endopeptidase (1 copy).
+#  - Milk fat globule-EGF factor 8 (MFG-E8) from mouse (2 copies).
+#  - Neuregulin GGF-I and GGF-II, two human glial growth factors (1 copy).
+#  - Neurexins from mammals (3 copies).
+#  - Neurogenic  proteins  Notch, Xotch and the human homolog Tan-1 (36 copies),
+#    Delta (9  copies)  and  the  similar  differentiation  proteins  Lag-2 from
+#    Caenorhabditis elegans (2  copies), Serrate (14 copies) and Slit (7 copies)
+#    from Drosophila.
+#  - Nidogen  (also called entactin), a basement membrane protein from chordates
+#    (2-6 copies).
+#  - Ookinete surface proteins (24 Kd, 25 Kd, 28 Kd) from Plasmodium (4 copies).
+#  - Pancreatic secretory granule membrane major glycoprotein GP2 (1 copy).
+#  - Perforin, which lyses non-specifically a variety of target cells (1 copy).
+#  - Proteoglycans  aggrecan (1 copy), versican (2 copies), perlecan (at least 2
+#    copies), brevican (1 copy) and chondroitin sulfate proteoglycan (gene PG-M)
+#    (2 copies).
+#  - Prostaglandin G/H synthase 1 and 2  (EC 1.14.99.1) (1 copy), which is found
+#    in the endoplasmatic reticulum.
+#  - Reelin, an extracellular matrix protein  that  plays a role in  layering of
+#    neurons in the cerebral cortex and cerebellum of mammals (8 copies).
+#  - S1-5,  a  human  extracellular  protein whose ultimate activity is probably
+#    modulated by the environment (5 copies).
+#  - Schwannoma-derived growth factor (SDGF), an autocrine growth factor as well
+#    as a mitogen for different target cells (1 copy).
+#  - Selectins. Cell  adhesion  proteins such  as  ELAM-1 (E-selectin),  GMP-140
+#    (P-selectin), or the lymph-node homing receptor (L-selectin) (1 copy).
+#  - Serine/threonine-protein  kinase  homolog  (gene  Pro25)  from  Arabidopsis
+#    thaliana, which  may   be   involved   in   assembly   or   regulation   of
+#    light-harvesting chlorophyll A/B protein (2 copies).
+#  - Sperm-egg fusion proteins PH-30 alpha and beta from guinea pig (1 copy).
+#  - Stromal cell derived protein-1 (SCP-1) from mouse (6 copies).
+#  - TDGF-1, human teratocarcinoma-derived growth factor 1 (1 copy).
+#  - Tenascin  (or  neuronectin),  an  extracellular matrix protein from mammals
+#    (14.5 copies), chicken (TEN-A) (13.5 copies) and the related proteins human
+#    tenascin-X (18  copies)  and  tenascin-like  proteins  TEN-A and TEN-M from
+#    Drosophila (8 copies).
+#  - Thrombomodulin   (fetomodulin),  which  together  with  thrombin  activates
+#    protein C (6 copies).
+#  - Thrombospondin  1, 2 (3 copies), 3 and 4 (4 copies), adhesive glycoproteins
+#    that mediate cell-to-cell and cell-to-matrix interactions.
+#  - Thyroid peroxidase 1 and 2 (EC 2.7.10.1) from human (1 copy).
+#  - Transforming  growth  factor  beta-1  binding protein (TGF-B1-BP) (16 or 18
+#    copies).
+#  - Tyrosine-protein kinase receptors Tek and Tie (EC 2.7.1.112) (3 copies).
+#  - Urokinase-type  plasminogen  activator  (EC  3.4.21.73)  (UPA)  and  tissue
+#    plasminogen activator (EC 3.4.21.68) (TPA) (1 copy).
+#  - Uromodulin (Tamm-horsfall urinary glycoprotein) (THP) (3 copies).
+#  - Vitamin  K-dependent  anticoagulants  protein C (2 copies) and protein S (4
+#    copies) and  the  similar  protein Z, a single-chain plasma glycoprotein of
+#    unknown function (2 copies).
+#  - 63 Kd sperm flagellar membrane protein from sea urchin (3 copies).
+#  - 93 Kd protein (gene nel) from chicken (5 copies).
+#  - Hypothetical  337.6  Kd  protein  T20G5.3  from  Caenorhabditis elegans (44
+#    copies).
+# 
+# The region between the 5th and 6th cysteine contains two conserved glycines of
+# which at  least  one  is  present  in  most  EGF-like  domains. We created two
+# patterns for  this  domain,  each  including one of these C-terminal conserved
+# glycine residues. The profile we developed covers the whole domain.
+# 
+# -Consensus pattern: C-x-C-x(2)-{V}-x(2)-G-{C}-x-C
+#                     [The 3 C's are involved in disulfide bonds]
+# -Sequences known to belong to this class detected by the pattern: ALL.
+#  but not  those  that  have very long or very short regions between the last 3
+#  conserved cysteines of their EGF-like domain(s).
+# -Other sequence(s)  detected  in  Swiss-Prot:  87 proteins, of which 27 can be
+#  considered as possible candidates.
+# 
+# -Consensus pattern: C-x-C-x(2)-[GP]-[FYW]-x(4,8)-C
+#                     [The 3 C's are involved in disulfide bonds]
+# -Sequences known to belong to this class detected by the pattern: ALL.
+#  but not  those  that  have very long or very short regions between the last 3
+#  conserved cysteines of their EGF-like domain(s).
+# -Other sequence(s)  detected  in  Swiss-Prot:  83 proteins, of which 49 can be
+#  considered as possible candidates.
+# 
+# -Sequences known to belong to this class detected by the profile: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Note: The  beta chain of the integrin family of proteins contains 2 cysteine-
+#  rich repeats  which were said to be dissimilar with the EGF pattern [7].
+# -Note: Laminin  EGF-like repeats (see <PDOC00961>) are longer than the average
+#  EGF module  and  contain  a further disulfide bond C-terminal of the EGF-like
+#  region. Perlecan  and  agrin  contain  both EGF-like domains and laminin-type
+#  EGF-like domains.
+# -Note: The  pattern do not detect all of the repeats of proteins with multiple
+#  EGF-like repeats.
+# -Note: See <PDOC00913> for an entry describing specifically the subset of EGF-
+#  like domains that bind calcium.
+# 
+# -Last update: April 2006 / Pattern revised.
+# 
+# [ 1] Davis C.G.
+#      "The many faces of epidermal growth factor repeats."
+#      New Biol. 2:410-419(1990).
+#      PubMed=2288911
+# [ 2] Blomquist M.C., Hunt L.T., Barker W.C.
+#      "Vaccinia virus 19-kilodalton protein: relationship to several
+#      mammalian proteins, including two growth factors."
+#      Proc. Natl. Acad. Sci. U.S.A. 81:7363-7367(1984).
+#      PubMed=6334307
+# [ 3] Barker W.C., Johnson G.C., Hunt L.T., George D.G.
+#      Protein Nucl. Acid Enz. 29:54-68(1986).
+# [ 4] Doolittle R.F., Feng D.F., Johnson M.S.
+#      "Computer-based characterization of epidermal growth factor
+#      precursor."
+#      Nature 307:558-560(1984).
+#      PubMed=6607417
+# [ 5] Appella E., Weber I.T., Blasi F.
+#      "Structure and function of epidermal growth factor-like regions in
+#      proteins."
+#      FEBS Lett. 231:1-4(1988).
+#      PubMed=3282918
+# [ 6] Campbell I.D., Bork P.
+#      Curr. Opin. Struct. Biol. 3:385-392(1993).
+# [ 7] Tamkun J.W., DeSimone D.W., Fonda D., Patel R.S., Buck C.,
+#      Horwitz A.F., Hynes R.O.
+#      "Structure of integrin, a glycoprotein involved in the transmembrane
+#      linkage between fibronectin and actin."
+#      Cell 46:271-282(1986).
+#      PubMed=3487386
+# 
+# ***************
+# 
+# Motif: THIOLASE_3
+# Count: 1
+# 
+# ************************
+# * Thiolases signatures *
+# ************************
+# 
+# Two different  types  of thiolase [1,2,3] are found  both in eukaryotes and in
+# prokaryotes: acetoacetyl-CoA thiolase (EC 2.3.1.9) and 3-ketoacyl-CoA thiolase
+# (EC 2.3.1.16).  3-ketoacyl-CoA thiolase (also called thiolase I)  has  a broad
+# chain-length specificity  for  its substrates and is involved   in degradative
+# pathways  such as  fatty acid  beta-oxidation.  Acetoacetyl-CoA thiolase (also
+# called thiolase  II)  is  specific  for  the  thiolysis of acetoacetyl-CoA and
+# involved in biosynthetic pathways such  as poly beta-hydroxybutyrate synthesis
+# or steroid biogenesis.
+# 
+# In eukaryotes, there are two forms of 3-ketoacyl-CoA thiolase: one  located in
+# the mitochondrion and the other in peroxisomes.
+# 
+# There are two conserved cysteine residues important for thiolase activity. The
+# first located  in  the  N-terminal  section  of the enzymes is involved in the
+# formation of an acyl-enzyme intermediate; the second located at the C-terminal
+# extremity is   the   active   site  base  involved  in  deprotonation  in  the
+# condensation reaction.
+# 
+# Mammalian nonspecific  lipid-transfer  protein (nsL-TP)  (also known as sterol
+# carrier protein 2) is a protein which seems  to exist  in two different forms:
+# a 14  Kd  protein  (SCP-2)  and  a larger 58 Kd protein (SCP-x). The former is
+# found in the cytoplasm or the mitochondria and is involved in lipid transport;
+# the latter is found in peroxisomes.  The C-terminal part of SCP-x is identical
+# to SCP-2  while  the  N-terminal  portion is evolutionary related to thiolases
+# [4].
+# 
+# We developed  three  signature  patterns  for  this family of proteins, two of
+# which are  based  on  the regions around the biologically important cysteines.
+# The third  is  based  on  a  highly conserved region in the C-terminal part of
+# these proteins.
+# 
+# -Consensus pattern: [LIVM]-[NST]-{T}-x-C-[SAGLI]-[ST]-[SAG]-[LIVMFYNS]-x-
+#                     [STAG]-[LIVM]-x(6)-[LIVM]
+#                     [C is involved in formation of acyl-enzyme intermediate]
+# -Sequences known to belong to this class detected by the pattern: ALL.
+# -Other sequence(s) detected in Swiss-Prot: 5.
+# 
+# -Consensus pattern: N-x(2)-G(2)-x-[LIVM]-[SA]-x-G-H-P-x-[GAS]-x-[ST]-G
+# -Sequences known to belong to this class detected by the pattern: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Consensus pattern: [AG]-[LIVMA]-[STAGCLIVM]-[STAG]-[LIVMA]-C-{Q}-[AG]-x-[AG]-
+#                     x-[AG]-x-[SAG]
+#                     [C is the active site residue]
+# -Sequences known to belong to this class detected by the pattern: ALL,  except
+#  for nsL-TP.
+# -Other sequence(s) detected in Swiss-Prot: 8.
+# 
+# -Last update: April 2006 / Patterns revised.
+# 
+# [ 1] Peoples O.P., Sinskey A.J.
+#      "Poly-beta-hydroxybutyrate biosynthesis in Alcaligenes eutrophus H16.
+#      Characterization of the genes encoding beta-ketothiolase and
+#      acetoacetyl-CoA reductase."
+#      J. Biol. Chem. 264:15293-15297(1989).
+#      PubMed=2670935
+# [ 2] Yang S.-Y., Yang X.-Y.H., Healy-Louie G., Schulz H., Elzinga M.
+#      "Nucleotide sequence of the fadA gene. Primary structure of
+#      3-ketoacyl-coenzyme A thiolase from Escherichia coli and the
+#      structural organization of the fadAB operon."
+#      J. Biol. Chem. 265:10424-10429(1990).
+#      PubMed=2191949
+# [ 3] Igual J.C., Gonzalez-Bosch C., Dopazo J., Perez-Ortin J.E.
+#      "Phylogenetic analysis of the thiolase family. Implications for the
+#      evolutionary origin of peroxisomes."
+#      J. Mol. Evol. 35:147-155(1992).
+#      PubMed=1354266
+# [ 4] Baker M.E., Billheimer J.T., Strauss J.F. III
+#      "Similarity between the amino-terminal portion of mammalian 58-kD
+#      sterol carrier protein (SCPx) and Escherichia coli acetyl-CoA
+#      acyltransferase: evidence for a gene fusion in SCPx."
+#      DNA Cell Biol. 10:695-698(1991).
+#      PubMed=1755959
+# 
+# ***************
+# 
+# Motif: 2FE2S_FER_1
+# Count: 1
+# 
+# ***************************************************************************
+# * 2Fe-2S ferredoxin-type iron-sulfur binding domain signature and profile *
+# ***************************************************************************
+# 
+# Ferredoxins  are small, acidic, electron transfer proteins that are ubiquitous
+# in  biological  redox  systems.  They  have  either  4Fe-4S, 3Fe-4S, or 2Fe-2S
+# cluster.  Among  them,  ferredoxin  with  one  2Fe-2S cluster per molecule are
+# present  in  plants, animals, and bacteria, and form a distinct 2Fe-Ferredoxin
+# family  [1,2].  They  are proteins of around one hundred amino acids with four
+# conserved  cysteine  residues  to  which  the  2Fe-2S cluster is ligated. This
+# conserved region is also found as a domain in various metabolic enzymes.
+# 
+# Several  structures  of the 2Fe-2S ferredoxin domain have been determined (see
+# for example <PDB:4FXC>) [3]. The domain is classified as a beta-grasp which is
+# characterized  as  having  a beta-sheet comprised of four beta-strands and one
+# alpha-helix  flanking  the  sheet  [4].  The  two  Fe  atoms  are  coordinated
+# tetrahedrally by the two inorganic S atoms and four cysteinyl S atoms.
+# 
+# Some proteins that contains a 2Fe-2S ferredoxin-type domain are listed below:
+# 
+#  - Ferredoxin from photosynthetic organisms;  namely plants and algae where it
+#    is located in the chloroplast or cyanelle; and cyanobacteria.
+#  - Ferredoxin from archaebacteria of the Halobacterium genus.
+#  - Ferredoxin IV (gene pftA) and V (gene fdxD) from Rhodobacter capsulatus.
+#  - Ferredoxin in the  toluene  degradation  operon (gene xylT) and naphthalene
+#    degradation operon (gene nahT) of Pseudomonas putida.
+#  - Hypothetical Escherichia coli protein yfaE.
+# 
+#  - The N-terminal domain  of the  bifunctional ferredoxin/ferredoxin reductase
+#    electron  transfer  component of the benzoate 1,2-dioxygenase complex (gene
+#    benC) from Acinetobacter calcoaceticus, the toluene 4-monooxygenase complex
+#    (gene tmoF), the toluate 1,2-dioxygenase system (gene xylZ), and the xylene
+#    monooxygenase system (gene xylA) from Pseudomonas.
+#  - The N-terminal domain of  phenol  hydroxylase  protein  p5 (gene dmpP) from
+#    Pseudomonas Putida.
+#  - The N-terminal domain of  methane  monooxygenase   component C  (gene mmoC)
+#    from Methylococcus capsulatus .
+#  - The C-terminal domain of the vanillate degradation pathway  protein vanB in
+#    a Pseudomonas species.
+#  - The N-terminal domain of bacterial  fumarate  reductase iron-sulfur protein
+#    (gene frdB).
+#  - The  N-terminal  domain  of CDP-6-deoxy-3,4-glucoseen reductase (gene ascD)
+#    from Yersinia pseudotuberculosis.
+#  - The central domain of eukaryotic succinate dehydrogenase (ubiquinone) iron-
+#    sulfur protein.
+#  - The N-terminal domain of eukaryotic xanthine dehydrogenase.
+#  - The N-terminal domain of eukaryotic aldehyde oxidase.
+# 
+# Three  of  the  four  conserved  cysteines  are clustered together in the same
+# region  of  the  protein. Our signature pattern spans that iron-sulfur binding
+# region. We also developed a profile that covers the whole domain.
+# 
+# -Consensus pattern: C-{C}-{C}-[GA]-{C}-C-[GAST]-{CPDEKRHFYW}-C
+#                     [The 3 C's are 2Fe-2S ligands]
+# -Sequences known to belong to this class detected by the profile: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Sequences known to belong to this class detected by the profile: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Note:  Ferredoxins  from the adrenodoxin subfamily are slightly divergent and
+#  are not picked up by our pattern (but they are recognized by the profile). We
+#  have  thus  developed  a  second  pattern  specific  for  this subfamily (see
+#  <PDOC00642>).
+# 
+# -Last update: March 2005 / Text revised; profile added.
+# 
+# [ 1] Meyer J.
+#      Trends Ecol. Evol. 3:222-226(1988).
+# [ 2] Harayama S., Polissi A., Rekik M.
+#      "Divergent evolution of chloroplast-type ferredoxins."
+#      FEBS Lett. 285:85-88(1991).
+#      PubMed=2065785
+# [ 3] Fukuyama K., Ueki N., Nakamura H., Tsukihara T., Matsubara H.
+#      "Tertiary structure of [2Fe-2S] ferredoxin from Spirulina platensis
+#      refined at 2.5 A resolution: structural comparisons of plant-type
+#      ferredoxins and an electrostatic potential analysis."
+#      J. Biochem. 117:1017-1023(1995).
+#      PubMed=8586613
+# [ 4] Overington J.P.
+#      Curr. Opin. Struct. Biol. 2:394-401(1992).
+# 
+# ***************
+# 
+#
+#---------------------------------------
